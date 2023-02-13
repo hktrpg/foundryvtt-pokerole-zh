@@ -1,27 +1,23 @@
 {
     "label": "Test",
-    "mapping": {
-        "description": "system.description",
-        "tags": "system.tags",
-        "tagsString": "system.tagsString"
-    },
-    "entries": [{
-            "id": "Bloodweed",
-            "name": "Blutkraut",
+    "entries": [
+        {
+            "id": "pokemon-abomasnow",
+            "name": "XXXXX",
             "description": "<p>Bis das Gift geheilt wird, würfelt das Opfer bei jedem Schadenswurf einen zusätzlichen W4 und zieht das Ergebnis von seinem normalen Schaden ab.</p>\n<p>Abzug vom Schadenswurf: [[/roll 1d4]]</p>",
             "tags": "[{\"value\":\"Gefährlich\"},{\"value\":\"Berührung\"}]",
             "tagsString": "Gefährlich, Berührung"
         },
         {
-            "id": "Goldenroot",
+            "id": "move-leer",
             "name": "Goldwurz",
             "description": "<p>Das Opfer behandelt das nächste wahrgenommene Wesen wie einen vertrauten Freund, bis ihm das Gegenteil bewiesen wird.</p>",
             "tags": "[{\"value\":\"Gefährlich\"},{\"value\":\"Einnahme\"}]",
             "tagsString": "Gefährlich, Einnahme"
         },
         {
-            "id": "Oil of Tagit",
-            "name": "Taggitöl",
+            "id": "Leer",
+            "name": "Leer",
             "description": "<p>Das Opfer fällt in einen leichten Schlaf.</p>",
             "tags": "[{\"value\":\"Gefährlich\"},{\"value\":\"Einnahme\"}]",
             "tagsString": "Gefährlich, Einnahme"

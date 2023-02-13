@@ -31,7 +31,7 @@
     }]
   },
    
-  "url": "https://gitlab.com/KarstenW76/dungeon-world-babele-de/",
-  "manifest": "https://gitlab.com/KarstenW76/dungeon-world-babele-de/-/raw/master/module.json",
-  "download": "https://gitlab.com/KarstenW76/dungeon-world-babele-de/-/archive/master/dungeon-world-babele-de-master.zip"
+  "url": "https://www.github.com/hktrpg/foundryvtt-pokerole-zh/",
+  "manifest": "https://gitlab.com/hktrpg/foundryvtt-pokerole-zh/-/raw/main/module.json",
+  "download": "https://gitlab.com/hktrpg/foundryvtt-pokerole-zh/-/archive/main/main.zip"
 }

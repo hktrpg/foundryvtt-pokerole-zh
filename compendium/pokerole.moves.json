@@ -1,0 +1,2940 @@
+{
+	"label": "Moves (Core 2.0)",
+	"mapping": {
+		"description": "system.description",
+		"effect": "system.effect"
+	},
+	"entries": [
+		{
+			"id": "Absorb",
+			"name": "Absorb",
+			"description": "xxxxxxxxxxxxxxxxx",
+			"effect": "YYYYYYYYYYY"
+		},
+		{
+			"id": "Accelerock",
+			"name": "Accelerock"
+		},
+		{
+			"id": "Acid",
+			"name": "Acid"
+		},
+		{
+			"id": "Acid Armor",
+			"name": "Acid Armor"
+		},
+		{
+			"id": "Acid Spray",
+			"name": "Acid Spray"
+		},
+		{
+			"id": "Acrobatics",
+			"name": "Acrobatics"
+		},
+		{
+			"id": "Acupressure",
+			"name": "Acupressure"
+		},
+		{
+			"id": "Aerial Ace",
+			"name": "Aerial Ace"
+		},
+		{
+			"id": "Aeroblast",
+			"name": "Aeroblast"
+		},
+		{
+			"id": "After You",
+			"name": "After You"
+		},
+		{
+			"id": "Agility",
+			"name": "Agility"
+		},
+		{
+			"id": "Air Cutter",
+			"name": "Air Cutter"
+		},
+		{
+			"id": "Air Slash",
+			"name": "Air Slash"
+		},
+		{
+			"id": "Ally Switch",
+			"name": "Ally Switch"
+		},
+		{
+			"id": "Amnesia",
+			"name": "Amnesia"
+		},
+		{
+			"id": "Anchor Shot",
+			"name": "Anchor Shot"
+		},
+		{
+			"id": "Ancient Power",
+			"name": "Ancient Power"
+		},
+		{
+			"id": "Apple Acid",
+			"name": "Apple Acid"
+		},
+		{
+			"id": "Aqua Jet",
+			"name": "Aqua Jet"
+		},
+		{
+			"id": "Aqua Ring",
+			"name": "Aqua Ring"
+		},
+		{
+			"id": "Aqua Tail",
+			"name": "Aqua Tail"
+		},
+		{
+			"id": "Arm Thrust",
+			"name": "Arm Thrust"
+		},
+		{
+			"id": "Aromatherapy",
+			"name": "Aromatherapy"
+		},
+		{
+			"id": "Aromatic Mist",
+			"name": "Aromatic Mist"
+		},
+		{
+			"id": "Assist",
+			"name": "Assist"
+		},
+		{
+			"id": "Assurance",
+			"name": "Assurance"
+		},
+		{
+			"id": "Astonish",
+			"name": "Astonish"
+		},
+		{
+			"id": "Attack Order",
+			"name": "Attack Order"
+		},
+		{
+			"id": "Attract",
+			"name": "Attract"
+		},
+		{
+			"id": "Aura Sphere",
+			"name": "Aura Sphere"
+		},
+		{
+			"id": "Aura Wheel",
+			"name": "Aura Wheel"
+		},
+		{
+			"id": "Aurora Beam",
+			"name": "Aurora Beam"
+		},
+		{
+			"id": "Aurora Veil",
+			"name": "Aurora Veil"
+		},
+		{
+			"id": "Autotomize",
+			"name": "Autotomize"
+		},
+		{
+			"id": "Avalanche",
+			"name": "Avalanche"
+		},
+		{
+			"id": "Baby-Doll Eyes",
+			"name": "Baby-Doll Eyes"
+		},
+		{
+			"id": "Baddy Bad",
+			"name": "Baddy Bad"
+		},
+		{
+			"id": "Baneful Bunker",
+			"name": "Baneful Bunker"
+		},
+		{
+			"id": "Barrage",
+			"name": "Barrage"
+		},
+		{
+			"id": "Barrier",
+			"name": "Barrier"
+		},
+		{
+			"id": "Baton Pass",
+			"name": "Baton Pass"
+		},
+		{
+			"id": "Beak Blast",
+			"name": "Beak Blast"
+		},
+		{
+			"id": "Beat Up",
+			"name": "Beat Up"
+		},
+		{
+			"id": "Behemoth Bash",
+			"name": "Behemoth Bash"
+		},
+		{
+			"id": "Behemoth Blade",
+			"name": "Behemoth Blade"
+		},
+		{
+			"id": "Belch",
+			"name": "Belch"
+		},
+		{
+			"id": "Belly Drum",
+			"name": "Belly Drum"
+		},
+		{
+			"id": "Bestow",
+			"name": "Bestow"
+		},
+		{
+			"id": "Bide",
+			"name": "Bide"
+		},
+		{
+			"id": "Bind",
+			"name": "Bind"
+		},
+		{
+			"id": "Bite",
+			"name": "Bite"
+		},
+		{
+			"id": "Blast Burn",
+			"name": "Blast Burn"
+		},
+		{
+			"id": "Blaze Kick",
+			"name": "Blaze Kick"
+		},
+		{
+			"id": "Blizzard",
+			"name": "Blizzard"
+		},
+		{
+			"id": "Block",
+			"name": "Block"
+		},
+		{
+			"id": "Blue Flare",
+			"name": "Blue Flare"
+		},
+		{
+			"id": "Body Press",
+			"name": "Body Press"
+		},
+		{
+			"id": "Body Slam",
+			"name": "Body Slam"
+		},
+		{
+			"id": "Bolt Beak",
+			"name": "Bolt Beak"
+		},
+		{
+			"id": "Bolt Strike",
+			"name": "Bolt Strike"
+		},
+		{
+			"id": "Bone Club",
+			"name": "Bone Club"
+		},
+		{
+			"id": "Bone Rush",
+			"name": "Bone Rush"
+		},
+		{
+			"id": "Bonemerang",
+			"name": "Bonemerang"
+		},
+		{
+			"id": "Boomburst",
+			"name": "Boomburst"
+		},
+		{
+			"id": "Bounce",
+			"name": "Bounce"
+		},
+		{
+			"id": "Bouncy Bubble",
+			"name": "Bouncy Bubble"
+		},
+		{
+			"id": "Branch Poke",
+			"name": "Branch Poke"
+		},
+		{
+			"id": "Brave Bird",
+			"name": "Brave Bird"
+		},
+		{
+			"id": "Breaking Swipe",
+			"name": "Breaking Swipe"
+		},
+		{
+			"id": "Brick Break",
+			"name": "Brick Break"
+		},
+		{
+			"id": "Brine",
+			"name": "Brine"
+		},
+		{
+			"id": "Brutal Swing",
+			"name": "Brutal Swing"
+		},
+		{
+			"id": "Bubble",
+			"name": "Bubble"
+		},
+		{
+			"id": "Bubble Beam",
+			"name": "Bubble Beam"
+		},
+		{
+			"id": "Bug Bite",
+			"name": "Bug Bite"
+		},
+		{
+			"id": "Bug Buzz",
+			"name": "Bug Buzz"
+		},
+		{
+			"id": "Bulk Up",
+			"name": "Bulk Up"
+		},
+		{
+			"id": "Bulldoze",
+			"name": "Bulldoze"
+		},
+		{
+			"id": "Bullet Punch",
+			"name": "Bullet Punch"
+		},
+		{
+			"id": "Bullet Seed",
+			"name": "Bullet Seed"
+		},
+		{
+			"id": "Burn Up",
+			"name": "Burn Up"
+		},
+		{
+			"id": "Buzzy Buzz",
+			"name": "Buzzy Buzz"
+		},
+		{
+			"id": "Calm Mind",
+			"name": "Calm Mind"
+		},
+		{
+			"id": "Camouflage",
+			"name": "Camouflage"
+		},
+		{
+			"id": "Captivate",
+			"name": "Captivate"
+		},
+		{
+			"id": "Charge",
+			"name": "Charge"
+		},
+		{
+			"id": "Charge Beam",
+			"name": "Charge Beam"
+		},
+		{
+			"id": "Charm",
+			"name": "Charm"
+		},
+		{
+			"id": "Chatter",
+			"name": "Chatter"
+		},
+		{
+			"id": "Chip Away",
+			"name": "Chip Away"
+		},
+		{
+			"id": "Circle Throw",
+			"name": "Circle Throw"
+		},
+		{
+			"id": "Clamp",
+			"name": "Clamp"
+		},
+		{
+			"id": "Clanging Scales",
+			"name": "Clanging Scales"
+		},
+		{
+			"id": "Clangorous Soul",
+			"name": "Clangorous Soul"
+		},
+		{
+			"id": "Clear Smog",
+			"name": "Clear Smog"
+		},
+		{
+			"id": "Close Combat",
+			"name": "Close Combat"
+		},
+		{
+			"id": "Coil",
+			"name": "Coil"
+		},
+		{
+			"id": "Comet Punch",
+			"name": "Comet Punch"
+		},
+		{
+			"id": "Confide",
+			"name": "Confide"
+		},
+		{
+			"id": "Confuse Ray",
+			"name": "Confuse Ray"
+		},
+		{
+			"id": "Confusion",
+			"name": "Confusion"
+		},
+		{
+			"id": "Constrict",
+			"name": "Constrict"
+		},
+		{
+			"id": "Conversion",
+			"name": "Conversion"
+		},
+		{
+			"id": "Conversion 2",
+			"name": "Conversion 2"
+		},
+		{
+			"id": "Copycat",
+			"name": "Copycat"
+		},
+		{
+			"id": "Core Enforcer",
+			"name": "Core Enforcer"
+		},
+		{
+			"id": "Cosmic Power",
+			"name": "Cosmic Power"
+		},
+		{
+			"id": "Cotton Guard",
+			"name": "Cotton Guard"
+		},
+		{
+			"id": "Cotton Spore",
+			"name": "Cotton Spore"
+		},
+		{
+			"id": "Counter",
+			"name": "Counter"
+		},
+		{
+			"id": "Court Change",
+			"name": "Court Change"
+		},
+		{
+			"id": "Cover An Ally",
+			"name": "Cover An Ally",
+			"description": ""
+		},
+		{
+			"id": "Covet",
+			"name": "Covet"
+		},
+		{
+			"id": "Crabhammer",
+			"name": "Crabhammer"
+		},
+		{
+			"id": "Crafty Shield",
+			"name": "Crafty Shield"
+		},
+		{
+			"id": "Cross Chop",
+			"name": "Cross Chop"
+		},
+		{
+			"id": "Cross Poison",
+			"name": "Cross Poison"
+		},
+		{
+			"id": "Crunch",
+			"name": "Crunch"
+		},
+		{
+			"id": "Crush Claw",
+			"name": "Crush Claw"
+		},
+		{
+			"id": "Crush Grip",
+			"name": "Crush Grip"
+		},
+		{
+			"id": "Curse",
+			"name": "Curse"
+		},
+		{
+			"id": "Curse (Non-Ghost User)",
+			"name": "Curse (Non-Ghost User)"
+		},
+		{
+			"id": "Cut",
+			"name": "Cut"
+		},
+		{
+			"id": "Dark Pulse",
+			"name": "Dark Pulse"
+		},
+		{
+			"id": "Dark Void",
+			"name": "Dark Void"
+		},
+		{
+			"id": "Darkest Lariat",
+			"name": "Darkest Lariat"
+		},
+		{
+			"id": "Dazzling Gleam",
+			"name": "Dazzling Gleam"
+		},
+		{
+			"id": "Decorate",
+			"name": "Decorate"
+		},
+		{
+			"id": "Defend Order",
+			"name": "Defend Order"
+		},
+		{
+			"id": "Defense Curl",
+			"name": "Defense Curl"
+		},
+		{
+			"id": "Defog",
+			"name": "Defog"
+		},
+		{
+			"id": "Destiny Bond",
+			"name": "Destiny Bond"
+		},
+		{
+			"id": "Detect",
+			"name": "Detect"
+		},
+		{
+			"id": "Diamond Storm",
+			"name": "Diamond Storm"
+		},
+		{
+			"id": "Dig",
+			"name": "Dig"
+		},
+		{
+			"id": "Disable",
+			"name": "Disable"
+		},
+		{
+			"id": "Disarming Voice",
+			"name": "Disarming Voice"
+		},
+		{
+			"id": "Discharge",
+			"name": "Discharge"
+		},
+		{
+			"id": "Dive",
+			"name": "Dive"
+		},
+		{
+			"id": "Dizzy Punch",
+			"name": "Dizzy Punch"
+		},
+		{
+			"id": "Doom Desire",
+			"name": "Doom Desire"
+		},
+		{
+			"id": "Double Hit",
+			"name": "Double Hit"
+		},
+		{
+			"id": "Double Iron Bash",
+			"name": "Double Iron Bash"
+		},
+		{
+			"id": "Double Kick",
+			"name": "Double Kick"
+		},
+		{
+			"id": "Double Slap",
+			"name": "Double Slap"
+		},
+		{
+			"id": "Double Team",
+			"name": "Double Team"
+		},
+		{
+			"id": "Double-Edge",
+			"name": "Double-Edge"
+		},
+		{
+			"id": "Draco Meteor",
+			"name": "Draco Meteor"
+		},
+		{
+			"id": "Dragon Ascent",
+			"name": "Dragon Ascent"
+		},
+		{
+			"id": "Dragon Breath",
+			"name": "Dragon Breath"
+		},
+		{
+			"id": "Dragon Claw",
+			"name": "Dragon Claw"
+		},
+		{
+			"id": "Dragon Dance",
+			"name": "Dragon Dance"
+		},
+		{
+			"id": "Dragon Darts",
+			"name": "Dragon Darts"
+		},
+		{
+			"id": "Dragon Hammer",
+			"name": "Dragon Hammer"
+		},
+		{
+			"id": "Dragon Pulse",
+			"name": "Dragon Pulse"
+		},
+		{
+			"id": "Dragon Rage",
+			"name": "Dragon Rage"
+		},
+		{
+			"id": "Dragon Rush",
+			"name": "Dragon Rush"
+		},
+		{
+			"id": "Dragon Tail",
+			"name": "Dragon Tail"
+		},
+		{
+			"id": "Drain Punch",
+			"name": "Drain Punch"
+		},
+		{
+			"id": "Draining Kiss",
+			"name": "Draining Kiss"
+		},
+		{
+			"id": "Dream Eater",
+			"name": "Dream Eater"
+		},
+		{
+			"id": "Drill Peck",
+			"name": "Drill Peck"
+		},
+		{
+			"id": "Drill Run",
+			"name": "Drill Run"
+		},
+		{
+			"id": "Drum Beating",
+			"name": "Drum Beating"
+		},
+		{
+			"id": "Dual Chop",
+			"name": "Dual Chop"
+		},
+		{
+			"id": "Dynamax Cannon",
+			"name": "Dynamax Cannon"
+		},
+		{
+			"id": "Dynamic Punch",
+			"name": "Dynamic Punch"
+		},
+		{
+			"id": "Earth Power",
+			"name": "Earth Power"
+		},
+		{
+			"id": "Earthquake",
+			"name": "Earthquake"
+		},
+		{
+			"id": "Echoed Voice",
+			"name": "Echoed Voice"
+		},
+		{
+			"id": "Eerie Impulse",
+			"name": "Eerie Impulse"
+		},
+		{
+			"id": "Egg Bomb",
+			"name": "Egg Bomb"
+		},
+		{
+			"id": "Electric Terrain",
+			"name": "Electric Terrain"
+		},
+		{
+			"id": "Electrify",
+			"name": "Electrify"
+		},
+		{
+			"id": "Electro Ball",
+			"name": "Electro Ball"
+		},
+		{
+			"id": "Electroweb",
+			"name": "Electroweb"
+		},
+		{
+			"id": "Embargo",
+			"name": "Embargo"
+		},
+		{
+			"id": "Ember",
+			"name": "Ember"
+		},
+		{
+			"id": "Encore",
+			"name": "Encore"
+		},
+		{
+			"id": "Endeavor",
+			"name": "Endeavor"
+		},
+		{
+			"id": "Endure",
+			"name": "Endure"
+		},
+		{
+			"id": "Energy Ball",
+			"name": "Energy Ball"
+		},
+		{
+			"id": "Entrainment",
+			"name": "Entrainment"
+		},
+		{
+			"id": "Eruption",
+			"name": "Eruption"
+		},
+		{
+			"id": "Eternabeam",
+			"name": "Eternabeam"
+		},
+		{
+			"id": "Explosion",
+			"name": "Explosion"
+		},
+		{
+			"id": "Extrasensory",
+			"name": "Extrasensory"
+		},
+		{
+			"id": "Extreme Speed",
+			"name": "Extreme Speed"
+		},
+		{
+			"id": "Facade",
+			"name": "Facade"
+		},
+		{
+			"id": "Fairy Lock",
+			"name": "Fairy Lock"
+		},
+		{
+			"id": "Fairy Wind",
+			"name": "Fairy Wind"
+		},
+		{
+			"id": "Fake Out",
+			"name": "Fake Out"
+		},
+		{
+			"id": "Fake Tears",
+			"name": "Fake Tears"
+		},
+		{
+			"id": "False Surrender",
+			"name": "False Surrender"
+		},
+		{
+			"id": "False Swipe",
+			"name": "False Swipe"
+		},
+		{
+			"id": "Feather Dance",
+			"name": "Feather Dance"
+		},
+		{
+			"id": "Feint",
+			"name": "Feint"
+		},
+		{
+			"id": "Feint Attack",
+			"name": "Feint Attack"
+		},
+		{
+			"id": "Fell Stinger",
+			"name": "Fell Stinger"
+		},
+		{
+			"id": "Fiery Dance",
+			"name": "Fiery Dance"
+		},
+		{
+			"id": "Final Gambit",
+			"name": "Final Gambit"
+		},
+		{
+			"id": "Fire Blast",
+			"name": "Fire Blast"
+		},
+		{
+			"id": "Fire Fang",
+			"name": "Fire Fang"
+		},
+		{
+			"id": "Fire Lash",
+			"name": "Fire Lash"
+		},
+		{
+			"id": "Fire Pledge",
+			"name": "Fire Pledge"
+		},
+		{
+			"id": "Fire Punch",
+			"name": "Fire Punch"
+		},
+		{
+			"id": "Fire Spin",
+			"name": "Fire Spin"
+		},
+		{
+			"id": "First Impression",
+			"name": "First Impression"
+		},
+		{
+			"id": "Fishious Rend",
+			"name": "Fishious Rend"
+		},
+		{
+			"id": "Fissure",
+			"name": "Fissure"
+		},
+		{
+			"id": "Flail",
+			"name": "Flail"
+		},
+		{
+			"id": "Flame Burst",
+			"name": "Flame Burst"
+		},
+		{
+			"id": "Flame Charge",
+			"name": "Flame Charge"
+		},
+		{
+			"id": "Flame Wheel",
+			"name": "Flame Wheel"
+		},
+		{
+			"id": "Flamethrower",
+			"name": "Flamethrower"
+		},
+		{
+			"id": "Flare Blitz",
+			"name": "Flare Blitz"
+		},
+		{
+			"id": "Flash",
+			"name": "Flash"
+		},
+		{
+			"id": "Flash Cannon",
+			"name": "Flash Cannon"
+		},
+		{
+			"id": "Flatter",
+			"name": "Flatter"
+		},
+		{
+			"id": "Fleur Cannon",
+			"name": "Fleur Cannon"
+		},
+		{
+			"id": "Fling",
+			"name": "Fling"
+		},
+		{
+			"id": "Floaty Fall",
+			"name": "Floaty Fall"
+		},
+		{
+			"id": "Floral Healing",
+			"name": "Floral Healing"
+		},
+		{
+			"id": "Flower Shield",
+			"name": "Flower Shield"
+		},
+		{
+			"id": "Fly",
+			"name": "Fly"
+		},
+		{
+			"id": "Flying Press",
+			"name": "Flying Press"
+		},
+		{
+			"id": "Focus Blast",
+			"name": "Focus Blast"
+		},
+		{
+			"id": "Focus Energy",
+			"name": "Focus Energy"
+		},
+		{
+			"id": "Focus Punch",
+			"name": "Focus Punch"
+		},
+		{
+			"id": "Follow Me",
+			"name": "Follow Me"
+		},
+		{
+			"id": "Force Palm",
+			"name": "Force Palm"
+		},
+		{
+			"id": "Foresight",
+			"name": "Foresight"
+		},
+		{
+			"id": "Forest's Curse",
+			"name": "Forest's Curse"
+		},
+		{
+			"id": "Foul Play",
+			"name": "Foul Play"
+		},
+		{
+			"id": "Freeze Dry",
+			"name": "Freeze Dry"
+		},
+		{
+			"id": "Freeze Shock",
+			"name": "Freeze Shock"
+		},
+		{
+			"id": "Freezy Frost",
+			"name": "Freezy Frost"
+		},
+		{
+			"id": "Frenzy Plant",
+			"name": "Frenzy Plant"
+		},
+		{
+			"id": "Frost Breath",
+			"name": "Frost Breath"
+		},
+		{
+			"id": "Frustration",
+			"name": "Frustration"
+		},
+		{
+			"id": "Fury Attack",
+			"name": "Fury Attack"
+		},
+		{
+			"id": "Fury Cutter",
+			"name": "Fury Cutter"
+		},
+		{
+			"id": "Fury Swipes",
+			"name": "Fury Swipes"
+		},
+		{
+			"id": "Fusion Bolt",
+			"name": "Fusion Bolt"
+		},
+		{
+			"id": "Fusion Flare",
+			"name": "Fusion Flare"
+		},
+		{
+			"id": "Future Sight",
+			"name": "Future Sight"
+		},
+		{
+			"id": "Gastro Acid",
+			"name": "Gastro Acid"
+		},
+		{
+			"id": "Gear Grind",
+			"name": "Gear Grind"
+		},
+		{
+			"id": "Gear Up",
+			"name": "Gear Up"
+		},
+		{
+			"id": "Geomancy",
+			"name": "Geomancy"
+		},
+		{
+			"id": "Giga Drain",
+			"name": "Giga Drain"
+		},
+		{
+			"id": "Giga Impact",
+			"name": "Giga Impact"
+		},
+		{
+			"id": "Glaciate",
+			"name": "Glaciate"
+		},
+		{
+			"id": "Glare",
+			"name": "Glare"
+		},
+		{
+			"id": "Glitzy Glow",
+			"name": "Glitzy Glow"
+		},
+		{
+			"id": "Grapple",
+			"name": "Grapple",
+			"description": ""
+		},
+		{
+			"id": "Grass Knot",
+			"name": "Grass Knot"
+		},
+		{
+			"id": "Grass Pledge",
+			"name": "Grass Pledge"
+		},
+		{
+			"id": "Grass Whistle",
+			"name": "Grass Whistle"
+		},
+		{
+			"id": "Grassy Terrain",
+			"name": "Grassy Terrain"
+		},
+		{
+			"id": "Grav Apple",
+			"name": "Grav Apple"
+		},
+		{
+			"id": "Gravity",
+			"name": "Gravity"
+		},
+		{
+			"id": "Growl (Cute)",
+			"name": "Growl (Cute)"
+		},
+		{
+			"id": "Growl (Tough)",
+			"name": "Growl (Tough)"
+		},
+		{
+			"id": "Growth",
+			"name": "Growth"
+		},
+		{
+			"id": "Grudge",
+			"name": "Grudge"
+		},
+		{
+			"id": "Guard Split",
+			"name": "Guard Split"
+		},
+		{
+			"id": "Guard Swap",
+			"name": "Guard Swap"
+		},
+		{
+			"id": "Guillotine",
+			"name": "Guillotine"
+		},
+		{
+			"id": "Gunk Shot",
+			"name": "Gunk Shot"
+		},
+		{
+			"id": "Gust",
+			"name": "Gust"
+		},
+		{
+			"id": "Gyro Ball",
+			"name": "Gyro Ball"
+		},
+		{
+			"id": "Hail",
+			"name": "Hail"
+		},
+		{
+			"id": "Hammer Arm",
+			"name": "Hammer Arm"
+		},
+		{
+			"id": "Harden",
+			"name": "Harden"
+		},
+		{
+			"id": "Haze",
+			"name": "Haze"
+		},
+		{
+			"id": "Head Charge",
+			"name": "Head Charge"
+		},
+		{
+			"id": "Head Smash",
+			"name": "Head Smash"
+		},
+		{
+			"id": "Headbutt",
+			"name": "Headbutt"
+		},
+		{
+			"id": "Heal Bell",
+			"name": "Heal Bell"
+		},
+		{
+			"id": "Heal Block",
+			"name": "Heal Block"
+		},
+		{
+			"id": "Heal Order",
+			"name": "Heal Order"
+		},
+		{
+			"id": "Heal Pulse",
+			"name": "Heal Pulse"
+		},
+		{
+			"id": "Healing Wish",
+			"name": "Healing Wish"
+		},
+		{
+			"id": "Heart Stamp",
+			"name": "Heart Stamp"
+		},
+		{
+			"id": "Heart Swap",
+			"name": "Heart Swap"
+		},
+		{
+			"id": "Heat Crash",
+			"name": "Heat Crash"
+		},
+		{
+			"id": "Heat Wave",
+			"name": "Heat Wave"
+		},
+		{
+			"id": "Heavy Slam",
+			"name": "Heavy Slam"
+		},
+		{
+			"id": "Help Another",
+			"name": "Help Another",
+			"description": ""
+		},
+		{
+			"id": "Helping Hand",
+			"name": "Helping Hand"
+		},
+		{
+			"id": "Hex",
+			"name": "Hex"
+		},
+		{
+			"id": "Hidden Power",
+			"name": "Hidden Power"
+		},
+		{
+			"id": "High Horsepower",
+			"name": "High Horsepower"
+		},
+		{
+			"id": "High Jump Kick",
+			"name": "High Jump Kick"
+		},
+		{
+			"id": "Hone Claws",
+			"name": "Hone Claws"
+		},
+		{
+			"id": "Horn Attack",
+			"name": "Horn Attack"
+		},
+		{
+			"id": "Horn Drill",
+			"name": "Horn Drill"
+		},
+		{
+			"id": "Horn Leech",
+			"name": "Horn Leech"
+		},
+		{
+			"id": "Howl",
+			"name": "Howl"
+		},
+		{
+			"id": "Hurricane",
+			"name": "Hurricane"
+		},
+		{
+			"id": "Hydro Cannon",
+			"name": "Hydro Cannon"
+		},
+		{
+			"id": "Hydro Pump",
+			"name": "Hydro Pump"
+		},
+		{
+			"id": "Hyper Beam",
+			"name": "Hyper Beam"
+		},
+		{
+			"id": "Hyper Fang",
+			"name": "Hyper Fang"
+		},
+		{
+			"id": "Hyper Voice",
+			"name": "Hyper Voice"
+		},
+		{
+			"id": "Hyperspace Fury",
+			"name": "Hyperspace Fury"
+		},
+		{
+			"id": "Hyperspace Hole",
+			"name": "Hyperspace Hole"
+		},
+		{
+			"id": "Hypnosis",
+			"name": "Hypnosis"
+		},
+		{
+			"id": "Ice Ball",
+			"name": "Ice Ball"
+		},
+		{
+			"id": "Ice Beam",
+			"name": "Ice Beam"
+		},
+		{
+			"id": "Ice Burn",
+			"name": "Ice Burn"
+		},
+		{
+			"id": "Ice Fang",
+			"name": "Ice Fang"
+		},
+		{
+			"id": "Ice Hammer",
+			"name": "Ice Hammer"
+		},
+		{
+			"id": "Ice Punch",
+			"name": "Ice Punch"
+		},
+		{
+			"id": "Ice Shard",
+			"name": "Ice Shard"
+		},
+		{
+			"id": "Icicle Crash",
+			"name": "Icicle Crash"
+		},
+		{
+			"id": "Icicle Spear",
+			"name": "Icicle Spear"
+		},
+		{
+			"id": "Icy Wind",
+			"name": "Icy Wind"
+		},
+		{
+			"id": "Imprison",
+			"name": "Imprison"
+		},
+		{
+			"id": "Incinerate",
+			"name": "Incinerate"
+		},
+		{
+			"id": "Inferno",
+			"name": "Inferno"
+		},
+		{
+			"id": "Infestation",
+			"name": "Infestation"
+		},
+		{
+			"id": "Ingrain",
+			"name": "Ingrain"
+		},
+		{
+			"id": "Instruct",
+			"name": "Instruct"
+		},
+		{
+			"id": "Ion Deluge",
+			"name": "Ion Deluge"
+		},
+		{
+			"id": "Iron Defense",
+			"name": "Iron Defense"
+		},
+		{
+			"id": "Iron Head",
+			"name": "Iron Head"
+		},
+		{
+			"id": "Iron Tail",
+			"name": "Iron Tail"
+		},
+		{
+			"id": "Jaw Lock",
+			"name": "Jaw Lock"
+		},
+		{
+			"id": "Judgment",
+			"name": "Judgment"
+		},
+		{
+			"id": "Jump Kick",
+			"name": "Jump Kick"
+		},
+		{
+			"id": "Karate Chop",
+			"name": "Karate Chop"
+		},
+		{
+			"id": "Kinesis",
+			"name": "Kinesis"
+		},
+		{
+			"id": "King's Shield",
+			"name": "King's Shield"
+		},
+		{
+			"id": "Knock Off",
+			"name": "Knock Off"
+		},
+		{
+			"id": "Land's Wrath",
+			"name": "Land's Wrath"
+		},
+		{
+			"id": "Laser Focus",
+			"name": "Laser Focus"
+		},
+		{
+			"id": "Last Resort",
+			"name": "Last Resort"
+		},
+		{
+			"id": "Lava Plume",
+			"name": "Lava Plume"
+		},
+		{
+			"id": "Leaf Blade",
+			"name": "Leaf Blade"
+		},
+		{
+			"id": "Leaf Storm",
+			"name": "Leaf Storm"
+		},
+		{
+			"id": "Leaf Tornado",
+			"name": "Leaf Tornado"
+		},
+		{
+			"id": "Leafage",
+			"name": "Leafage"
+		},
+		{
+			"id": "Leech Life",
+			"name": "Leech Life"
+		},
+		{
+			"id": "Leech Seed",
+			"name": "Leech Seed"
+		},
+		{
+			"id": "Leer",
+			"name": "香水!",
+			"description": "xxxxxxxxxxxxxxxxx",
+			"effect": "YYYYYYYYYYY"
+		},
+		{
+			"id": "Lick",
+			"name": "Lick"
+		},
+		{
+			"id": "Life Dew",
+			"name": "Life Dew"
+		},
+		{
+			"id": "Light Of Ruin",
+			"name": "Light Of Ruin"
+		},
+		{
+			"id": "Light Screen",
+			"name": "Light Screen"
+		},
+		{
+			"id": "Liquidation",
+			"name": "Liquidation"
+		},
+		{
+			"id": "Lock-On",
+			"name": "Lock-On"
+		},
+		{
+			"id": "Lovely Kiss",
+			"name": "Lovely Kiss"
+		},
+		{
+			"id": "Low Kick",
+			"name": "Low Kick"
+		},
+		{
+			"id": "Low Sweep",
+			"name": "Low Sweep"
+		},
+		{
+			"id": "Lucky Chant",
+			"name": "Lucky Chant"
+		},
+		{
+			"id": "Lunar Dance",
+			"name": "Lunar Dance"
+		},
+		{
+			"id": "Lunge",
+			"name": "Lunge"
+		},
+		{
+			"id": "Luster Purge",
+			"name": "Luster Purge"
+		},
+		{
+			"id": "Mach Punch",
+			"name": "Mach Punch"
+		},
+		{
+			"id": "Magic Coat",
+			"name": "Magic Coat"
+		},
+		{
+			"id": "Magic Powder",
+			"name": "Magic Powder"
+		},
+		{
+			"id": "Magic Room",
+			"name": "Magic Room"
+		},
+		{
+			"id": "Magical Leaf",
+			"name": "Magical Leaf"
+		},
+		{
+			"id": "Magma Storm",
+			"name": "Magma Storm"
+		},
+		{
+			"id": "Magnet Bomb",
+			"name": "Magnet Bomb"
+		},
+		{
+			"id": "Magnet Rise",
+			"name": "Magnet Rise"
+		},
+		{
+			"id": "Magnetic Flux",
+			"name": "Magnetic Flux"
+		},
+		{
+			"id": "Magnitude",
+			"name": "Magnitude"
+		},
+		{
+			"id": "Mat Block",
+			"name": "Mat Block"
+		},
+		{
+			"id": "Me First",
+			"name": "Me First"
+		},
+		{
+			"id": "Mean Look",
+			"name": "Mean Look"
+		},
+		{
+			"id": "Meditate",
+			"name": "Meditate"
+		},
+		{
+			"id": "Mega Drain",
+			"name": "Mega Drain"
+		},
+		{
+			"id": "Mega Kick",
+			"name": "Mega Kick"
+		},
+		{
+			"id": "Mega Punch",
+			"name": "Mega Punch"
+		},
+		{
+			"id": "Megahorn",
+			"name": "Megahorn"
+		},
+		{
+			"id": "Memento",
+			"name": "Memento"
+		},
+		{
+			"id": "Metal Burst",
+			"name": "Metal Burst"
+		},
+		{
+			"id": "Metal Claw",
+			"name": "Metal Claw"
+		},
+		{
+			"id": "Metal Sound",
+			"name": "Metal Sound"
+		},
+		{
+			"id": "Meteor Assault",
+			"name": "Meteor Assault"
+		},
+		{
+			"id": "Meteor Mash",
+			"name": "Meteor Mash"
+		},
+		{
+			"id": "Metronome",
+			"name": "Metronome"
+		},
+		{
+			"id": "Milk Drink",
+			"name": "Milk Drink"
+		},
+		{
+			"id": "Mimic",
+			"name": "Mimic"
+		},
+		{
+			"id": "Mind Blown",
+			"name": "Mind Blown"
+		},
+		{
+			"id": "Mind Reader",
+			"name": "Mind Reader"
+		},
+		{
+			"id": "Minimize",
+			"name": "Minimize"
+		},
+		{
+			"id": "Miracle Eye",
+			"name": "Miracle Eye"
+		},
+		{
+			"id": "Mirror Coat",
+			"name": "Mirror Coat"
+		},
+		{
+			"id": "Mirror Move",
+			"name": "Mirror Move"
+		},
+		{
+			"id": "Mirror Shot",
+			"name": "Mirror Shot"
+		},
+		{
+			"id": "Mist",
+			"name": "Mist"
+		},
+		{
+			"id": "Mist Ball",
+			"name": "Mist Ball"
+		},
+		{
+			"id": "Misty Terrain",
+			"name": "Misty Terrain"
+		},
+		{
+			"id": "Moonblast",
+			"name": "Moonblast"
+		},
+		{
+			"id": "Moongeist Beam",
+			"name": "Moongeist Beam"
+		},
+		{
+			"id": "Moonlight",
+			"name": "Moonlight"
+		},
+		{
+			"id": "Morning Sun",
+			"name": "Morning Sun"
+		},
+		{
+			"id": "Mud Bomb",
+			"name": "Mud Bomb"
+		},
+		{
+			"id": "Mud Shot",
+			"name": "Mud Shot"
+		},
+		{
+			"id": "Mud Slap",
+			"name": "Mud Slap"
+		},
+		{
+			"id": "Mud Sport",
+			"name": "Mud Sport"
+		},
+		{
+			"id": "Muddy Water",
+			"name": "Muddy Water"
+		},
+		{
+			"id": "Multi-Attack",
+			"name": "Multi-Attack"
+		},
+		{
+			"id": "Mystical Fire",
+			"name": "Mystical Fire"
+		},
+		{
+			"id": "Nasty Plot",
+			"name": "Nasty Plot"
+		},
+		{
+			"id": "Natural Gift",
+			"name": "Natural Gift"
+		},
+		{
+			"id": "Nature Power",
+			"name": "Nature Power"
+		},
+		{
+			"id": "Nature's Madness",
+			"name": "Nature's Madness"
+		},
+		{
+			"id": "Needle Arm",
+			"name": "Needle Arm"
+		},
+		{
+			"id": "Night Daze",
+			"name": "Night Daze"
+		},
+		{
+			"id": "Night Shade",
+			"name": "Night Shade"
+		},
+		{
+			"id": "Night Slash",
+			"name": "Night Slash"
+		},
+		{
+			"id": "Nightmare",
+			"name": "Nightmare"
+		},
+		{
+			"id": "No Retreat",
+			"name": "No Retreat"
+		},
+		{
+			"id": "Noble Roar",
+			"name": "Noble Roar"
+		},
+		{
+			"id": "Nuzzle",
+			"name": "Nuzzle"
+		},
+		{
+			"id": "Oblivion Wing",
+			"name": "Oblivion Wing"
+		},
+		{
+			"id": "Obstruct",
+			"name": "Obstruct"
+		},
+		{
+			"id": "Octazooka",
+			"name": "Octazooka"
+		},
+		{
+			"id": "Octolock",
+			"name": "Octolock"
+		},
+		{
+			"id": "Odor Sleuth",
+			"name": "Odor Sleuth"
+		},
+		{
+			"id": "Ominous Wind",
+			"name": "Ominous Wind"
+		},
+		{
+			"id": "Origin Pulse",
+			"name": "Origin Pulse"
+		},
+		{
+			"id": "Outrage",
+			"name": "Outrage"
+		},
+		{
+			"id": "Overdrive",
+			"name": "Overdrive"
+		},
+		{
+			"id": "Overheat",
+			"name": "Overheat"
+		},
+		{
+			"id": "Pain Split",
+			"name": "Pain Split"
+		},
+		{
+			"id": "Parabolic Charge",
+			"name": "Parabolic Charge"
+		},
+		{
+			"id": "Parting Shot",
+			"name": "Parting Shot"
+		},
+		{
+			"id": "Pay Day",
+			"name": "Pay Day"
+		},
+		{
+			"id": "Payback",
+			"name": "Payback"
+		},
+		{
+			"id": "Peck",
+			"name": "Peck"
+		},
+		{
+			"id": "Perish Song",
+			"name": "Perish Song"
+		},
+		{
+			"id": "Petal Blizzard",
+			"name": "Petal Blizzard"
+		},
+		{
+			"id": "Petal Dance",
+			"name": "Petal Dance"
+		},
+		{
+			"id": "Phantom Force",
+			"name": "Phantom Force"
+		},
+		{
+			"id": "Photon Geyser (Physical)",
+			"name": "Photon Geyser (Physical)"
+		},
+		{
+			"id": "Photon Geyser (Special)",
+			"name": "Photon Geyser (Special)"
+		},
+		{
+			"id": "Pika Papow",
+			"name": "Pika Papow"
+		},
+		{
+			"id": "Pin Missile",
+			"name": "Pin Missile"
+		},
+		{
+			"id": "Plasma Fists",
+			"name": "Plasma Fists"
+		},
+		{
+			"id": "Play Nice",
+			"name": "Play Nice"
+		},
+		{
+			"id": "Play Rough",
+			"name": "Play Rough"
+		},
+		{
+			"id": "Pluck",
+			"name": "Pluck"
+		},
+		{
+			"id": "Poison Fang",
+			"name": "Poison Fang"
+		},
+		{
+			"id": "Poison Gas",
+			"name": "Poison Gas"
+		},
+		{
+			"id": "Poison Jab",
+			"name": "Poison Jab"
+		},
+		{
+			"id": "Poison Powder",
+			"name": "Poison Powder"
+		},
+		{
+			"id": "Poison Sting",
+			"name": "Poison Sting"
+		},
+		{
+			"id": "Poison Tail",
+			"name": "Poison Tail"
+		},
+		{
+			"id": "Pollen Puff",
+			"name": "Pollen Puff"
+		},
+		{
+			"id": "Poltergeist",
+			"name": "Poltergeist"
+		},
+		{
+			"id": "Pound",
+			"name": "Pound"
+		},
+		{
+			"id": "Powder",
+			"name": "Powder"
+		},
+		{
+			"id": "Powder Snow",
+			"name": "Powder Snow"
+		},
+		{
+			"id": "Power Gem",
+			"name": "Power Gem"
+		},
+		{
+			"id": "Power Split",
+			"name": "Power Split"
+		},
+		{
+			"id": "Power Swap",
+			"name": "Power Swap"
+		},
+		{
+			"id": "Power Trick",
+			"name": "Power Trick"
+		},
+		{
+			"id": "Power Trip",
+			"name": "Power Trip"
+		},
+		{
+			"id": "Power Whip",
+			"name": "Power Whip"
+		},
+		{
+			"id": "Power-Up Punch",
+			"name": "Power-Up Punch"
+		},
+		{
+			"id": "Precipice Blades",
+			"name": "Precipice Blades"
+		},
+		{
+			"id": "Present",
+			"name": "Present"
+		},
+		{
+			"id": "Prismatic Laser",
+			"name": "Prismatic Laser"
+		},
+		{
+			"id": "Protect",
+			"name": "Protect"
+		},
+		{
+			"id": "Psybeam",
+			"name": "Psybeam"
+		},
+		{
+			"id": "Psych Up",
+			"name": "Psych Up"
+		},
+		{
+			"id": "Psychic",
+			"name": "Psychic"
+		},
+		{
+			"id": "Psychic Fangs",
+			"name": "Psychic Fangs"
+		},
+		{
+			"id": "Psychic Terrain",
+			"name": "Psychic Terrain"
+		},
+		{
+			"id": "Psycho Boost",
+			"name": "Psycho Boost"
+		},
+		{
+			"id": "Psycho Cut",
+			"name": "Psycho Cut"
+		},
+		{
+			"id": "Psycho Shift",
+			"name": "Psycho Shift"
+		},
+		{
+			"id": "Psyshock",
+			"name": "Psyshock"
+		},
+		{
+			"id": "Psystrike",
+			"name": "Psystrike"
+		},
+		{
+			"id": "Psywave",
+			"name": "Psywave"
+		},
+		{
+			"id": "Punishment",
+			"name": "Punishment"
+		},
+		{
+			"id": "Purify",
+			"name": "Purify"
+		},
+		{
+			"id": "Pursuit",
+			"name": "Pursuit"
+		},
+		{
+			"id": "Pyro Ball",
+			"name": "Pyro Ball"
+		},
+		{
+			"id": "Quash",
+			"name": "Quash"
+		},
+		{
+			"id": "Quick Attack",
+			"name": "Quick Attack"
+		},
+		{
+			"id": "Quick Guard",
+			"name": "Quick Guard"
+		},
+		{
+			"id": "Quiver Dance",
+			"name": "Quiver Dance"
+		},
+		{
+			"id": "Rage",
+			"name": "Rage"
+		},
+		{
+			"id": "Rage Powder",
+			"name": "Rage Powder"
+		},
+		{
+			"id": "Rain Dance",
+			"name": "Rain Dance"
+		},
+		{
+			"id": "Rapid Spin",
+			"name": "Rapid Spin"
+		},
+		{
+			"id": "Razor Leaf",
+			"name": "Razor Leaf"
+		},
+		{
+			"id": "Razor Shell",
+			"name": "Razor Shell"
+		},
+		{
+			"id": "Razor Wind",
+			"name": "Razor Wind"
+		},
+		{
+			"id": "Recover",
+			"name": "Recover"
+		},
+		{
+			"id": "Recycle",
+			"name": "Recycle"
+		},
+		{
+			"id": "Reflect",
+			"name": "Reflect"
+		},
+		{
+			"id": "Reflect Type",
+			"name": "Reflect Type"
+		},
+		{
+			"id": "Refresh",
+			"name": "Refresh"
+		},
+		{
+			"id": "Relic Song",
+			"name": "Relic Song"
+		},
+		{
+			"id": "Rest",
+			"name": "Rest"
+		},
+		{
+			"id": "Retaliate",
+			"name": "Retaliate"
+		},
+		{
+			"id": "Return",
+			"name": "Return"
+		},
+		{
+			"id": "Revelation Dance",
+			"name": "Revelation Dance"
+		},
+		{
+			"id": "Revenge",
+			"name": "Revenge"
+		},
+		{
+			"id": "Reversal",
+			"name": "Reversal"
+		},
+		{
+			"id": "Roar",
+			"name": "Roar"
+		},
+		{
+			"id": "Roar Of Time",
+			"name": "Roar Of Time"
+		},
+		{
+			"id": "Rock Blast",
+			"name": "Rock Blast"
+		},
+		{
+			"id": "Rock Climb",
+			"name": "Rock Climb"
+		},
+		{
+			"id": "Rock Polish",
+			"name": "Rock Polish"
+		},
+		{
+			"id": "Rock Slide",
+			"name": "Rock Slide"
+		},
+		{
+			"id": "Rock Smash",
+			"name": "Rock Smash"
+		},
+		{
+			"id": "Rock Throw",
+			"name": "Rock Throw"
+		},
+		{
+			"id": "Rock Tomb",
+			"name": "Rock Tomb"
+		},
+		{
+			"id": "Rock Wrecker",
+			"name": "Rock Wrecker"
+		},
+		{
+			"id": "Role Play",
+			"name": "Role Play"
+		},
+		{
+			"id": "Rolling Kick",
+			"name": "Rolling Kick"
+		},
+		{
+			"id": "Rollout",
+			"name": "Rollout"
+		},
+		{
+			"id": "Roost",
+			"name": "Roost"
+		},
+		{
+			"id": "Rototiller",
+			"name": "Rototiller"
+		},
+		{
+			"id": "Round",
+			"name": "Round"
+		},
+		{
+			"id": "Run Away",
+			"name": "Run Away",
+			"description": ""
+		},
+		{
+			"id": "Sacred Fire",
+			"name": "Sacred Fire"
+		},
+		{
+			"id": "Sacred Sword",
+			"name": "Sacred Sword"
+		},
+		{
+			"id": "Safeguard",
+			"name": "Safeguard"
+		},
+		{
+			"id": "Sand Attack",
+			"name": "Sand Attack"
+		},
+		{
+			"id": "Sand Tomb",
+			"name": "Sand Tomb"
+		},
+		{
+			"id": "Sandstorm",
+			"name": "Sandstorm"
+		},
+		{
+			"id": "Sappy Seed",
+			"name": "Sappy Seed"
+		},
+		{
+			"id": "Scald",
+			"name": "Scald"
+		},
+		{
+			"id": "Scary Face",
+			"name": "Scary Face"
+		},
+		{
+			"id": "Scratch",
+			"name": "Scratch"
+		},
+		{
+			"id": "Screech",
+			"name": "Screech"
+		},
+		{
+			"id": "Searing Shot",
+			"name": "Searing Shot"
+		},
+		{
+			"id": "Secret Power",
+			"name": "Secret Power"
+		},
+		{
+			"id": "Secret Sword",
+			"name": "Secret Sword"
+		},
+		{
+			"id": "Seed Bomb",
+			"name": "Seed Bomb"
+		},
+		{
+			"id": "Seed Flare",
+			"name": "Seed Flare"
+		},
+		{
+			"id": "Seismic Toss",
+			"name": "Seismic Toss"
+		},
+		{
+			"id": "Self Destruct",
+			"name": "Self Destruct"
+		},
+		{
+			"id": "Shadow Ball",
+			"name": "Shadow Ball"
+		},
+		{
+			"id": "Shadow Bone",
+			"name": "Shadow Bone"
+		},
+		{
+			"id": "Shadow Claw",
+			"name": "Shadow Claw"
+		},
+		{
+			"id": "Shadow Force",
+			"name": "Shadow Force"
+		},
+		{
+			"id": "Shadow Punch",
+			"name": "Shadow Punch"
+		},
+		{
+			"id": "Shadow Sneak",
+			"name": "Shadow Sneak"
+		},
+		{
+			"id": "Sharpen",
+			"name": "Sharpen"
+		},
+		{
+			"id": "Sheer Cold",
+			"name": "Sheer Cold"
+		},
+		{
+			"id": "Shell Smash",
+			"name": "Shell Smash"
+		},
+		{
+			"id": "Shell Trap",
+			"name": "Shell Trap"
+		},
+		{
+			"id": "Shift Gear",
+			"name": "Shift Gear"
+		},
+		{
+			"id": "Shock Wave",
+			"name": "Shock Wave"
+		},
+		{
+			"id": "Shore Up",
+			"name": "Shore Up"
+		},
+		{
+			"id": "Signal Beam",
+			"name": "Signal Beam"
+		},
+		{
+			"id": "Silver Wind",
+			"name": "Silver Wind"
+		},
+		{
+			"id": "Simple Beam",
+			"name": "Simple Beam"
+		},
+		{
+			"id": "Sing",
+			"name": "Sing"
+		},
+		{
+			"id": "Sizzly Slide",
+			"name": "Sizzly Slide"
+		},
+		{
+			"id": "Sketch",
+			"name": "Sketch"
+		},
+		{
+			"id": "Skill Swap",
+			"name": "Skill Swap"
+		},
+		{
+			"id": "Skull Bash",
+			"name": "Skull Bash"
+		},
+		{
+			"id": "Sky Attack",
+			"name": "Sky Attack"
+		},
+		{
+			"id": "Sky Drop",
+			"name": "Sky Drop"
+		},
+		{
+			"id": "Sky Uppercut",
+			"name": "Sky Uppercut"
+		},
+		{
+			"id": "Slack Off",
+			"name": "Slack Off"
+		},
+		{
+			"id": "Slam",
+			"name": "Slam"
+		},
+		{
+			"id": "Slash",
+			"name": "Slash"
+		},
+		{
+			"id": "Sleep Powder",
+			"name": "Sleep Powder"
+		},
+		{
+			"id": "Sleep Talk",
+			"name": "Sleep Talk"
+		},
+		{
+			"id": "Sludge",
+			"name": "Sludge"
+		},
+		{
+			"id": "Sludge Bomb",
+			"name": "Sludge Bomb"
+		},
+		{
+			"id": "Sludge Wave",
+			"name": "Sludge Wave"
+		},
+		{
+			"id": "Smack Down",
+			"name": "Smack Down"
+		},
+		{
+			"id": "Smart Strike",
+			"name": "Smart Strike"
+		},
+		{
+			"id": "Smelling Salts",
+			"name": "Smelling Salts"
+		},
+		{
+			"id": "Smog",
+			"name": "Smog"
+		},
+		{
+			"id": "Smokescreen",
+			"name": "Smokescreen"
+		},
+		{
+			"id": "Snap Trap",
+			"name": "Snap Trap"
+		},
+		{
+			"id": "Snarl",
+			"name": "Snarl"
+		},
+		{
+			"id": "Snatch",
+			"name": "Snatch"
+		},
+		{
+			"id": "Snipe Shot",
+			"name": "Snipe Shot"
+		},
+		{
+			"id": "Snore",
+			"name": "Snore"
+		},
+		{
+			"id": "Soak",
+			"name": "Soak"
+		},
+		{
+			"id": "Soft Boiled",
+			"name": "Soft Boiled"
+		},
+		{
+			"id": "Solar Beam",
+			"name": "Solar Beam"
+		},
+		{
+			"id": "Solar Blade",
+			"name": "Solar Blade"
+		},
+		{
+			"id": "Sonic Boom",
+			"name": "Sonic Boom"
+		},
+		{
+			"id": "Spacial Rend",
+			"name": "Spacial Rend"
+		},
+		{
+			"id": "Spark",
+			"name": "Spark"
+		},
+		{
+			"id": "Sparkling Aria",
+			"name": "Sparkling Aria"
+		},
+		{
+			"id": "Sparkly Swirl",
+			"name": "Sparkly Swirl"
+		},
+		{
+			"id": "Spectral Thief",
+			"name": "Spectral Thief"
+		},
+		{
+			"id": "Speed Swap",
+			"name": "Speed Swap"
+		},
+		{
+			"id": "Spider Web",
+			"name": "Spider Web"
+		},
+		{
+			"id": "Spike Cannon",
+			"name": "Spike Cannon"
+		},
+		{
+			"id": "Spikes",
+			"name": "Spikes"
+		},
+		{
+			"id": "Spiky Shield",
+			"name": "Spiky Shield"
+		},
+		{
+			"id": "Spirit Break",
+			"name": "Spirit Break"
+		},
+		{
+			"id": "Spirit Shackle",
+			"name": "Spirit Shackle"
+		},
+		{
+			"id": "Spit Up",
+			"name": "Spit Up"
+		},
+		{
+			"id": "Spite",
+			"name": "Spite"
+		},
+		{
+			"id": "Splash",
+			"name": "Splash"
+		},
+		{
+			"id": "Splishy Splash",
+			"name": "Splishy Splash"
+		},
+		{
+			"id": "Spore",
+			"name": "Spore"
+		},
+		{
+			"id": "Spotlight",
+			"name": "Spotlight"
+		},
+		{
+			"id": "Stabilize An Ally",
+			"name": "Stabilize An Ally",
+			"description": ""
+		},
+		{
+			"id": "Stealth Rock",
+			"name": "Stealth Rock"
+		},
+		{
+			"id": "Steam Eruption",
+			"name": "Steam Eruption"
+		},
+		{
+			"id": "Steamroller",
+			"name": "Steamroller"
+		},
+		{
+			"id": "Steel Beam",
+			"name": "Steel Beam"
+		},
+		{
+			"id": "Steel Wing",
+			"name": "Steel Wing"
+		},
+		{
+			"id": "Sticky Web",
+			"name": "Sticky Web"
+		},
+		{
+			"id": "Stockpile",
+			"name": "Stockpile"
+		},
+		{
+			"id": "Stomp",
+			"name": "Stomp"
+		},
+		{
+			"id": "Stomping Tantrum",
+			"name": "Stomping Tantrum"
+		},
+		{
+			"id": "Stone Edge",
+			"name": "Stone Edge"
+		},
+		{
+			"id": "Stored Power",
+			"name": "Stored Power"
+		},
+		{
+			"id": "Storm Throw",
+			"name": "Storm Throw"
+		},
+		{
+			"id": "Strange Steam",
+			"name": "Strange Steam"
+		},
+		{
+			"id": "Strength",
+			"name": "Strength"
+		},
+		{
+			"id": "Strength Sap",
+			"name": "Strength Sap"
+		},
+		{
+			"id": "String Shot",
+			"name": "String Shot"
+		},
+		{
+			"id": "Struggle (Physical)",
+			"name": "Struggle (Physical)",
+			"description": ""
+		},
+		{
+			"id": "Struggle (Special)",
+			"name": "Struggle (Special)",
+			"description": ""
+		},
+		{
+			"id": "Struggle Bug",
+			"name": "Struggle Bug"
+		},
+		{
+			"id": "Stuff Cheeks",
+			"name": "Stuff Cheeks"
+		},
+		{
+			"id": "Stun Spore",
+			"name": "Stun Spore"
+		},
+		{
+			"id": "Submission",
+			"name": "Submission"
+		},
+		{
+			"id": "Substitute",
+			"name": "Substitute"
+		},
+		{
+			"id": "Sucker Punch",
+			"name": "Sucker Punch"
+		},
+		{
+			"id": "Sunny Day",
+			"name": "Sunny Day"
+		},
+		{
+			"id": "Sunsteel Strike",
+			"name": "Sunsteel Strike"
+		},
+		{
+			"id": "Super Fang",
+			"name": "Super Fang"
+		},
+		{
+			"id": "Superpower",
+			"name": "Superpower"
+		},
+		{
+			"id": "Supersonic",
+			"name": "Supersonic"
+		},
+		{
+			"id": "Surf",
+			"name": "Surf"
+		},
+		{
+			"id": "Swagger",
+			"name": "Swagger"
+		},
+		{
+			"id": "Swallow",
+			"name": "Swallow"
+		},
+		{
+			"id": "Sweet Kiss",
+			"name": "Sweet Kiss"
+		},
+		{
+			"id": "Sweet Scent",
+			"name": "Sweet Scent"
+		},
+		{
+			"id": "Swift",
+			"name": "Swift"
+		},
+		{
+			"id": "Switcheroo",
+			"name": "Switcheroo"
+		},
+		{
+			"id": "Swords Dance",
+			"name": "Swords Dance"
+		},
+		{
+			"id": "Synchronoise",
+			"name": "Synchronoise"
+		},
+		{
+			"id": "Synthesis",
+			"name": "Synthesis"
+		},
+		{
+			"id": "Tackle",
+			"name": "Tackle"
+		},
+		{
+			"id": "Tail Glow",
+			"name": "Tail Glow"
+		},
+		{
+			"id": "Tail Slap",
+			"name": "Tail Slap"
+		},
+		{
+			"id": "Tail Whip",
+			"name": "Tail Whip"
+		},
+		{
+			"id": "Tailwind",
+			"name": "Tailwind"
+		},
+		{
+			"id": "Take Down",
+			"name": "Take Down"
+		},
+		{
+			"id": "Tar Shot",
+			"name": "Tar Shot"
+		},
+		{
+			"id": "Taunt",
+			"name": "Taunt"
+		},
+		{
+			"id": "Tearful Look",
+			"name": "Tearful Look"
+		},
+		{
+			"id": "Teatime",
+			"name": "Teatime"
+		},
+		{
+			"id": "Techno Blast",
+			"name": "Techno Blast"
+		},
+		{
+			"id": "Teeter Dance",
+			"name": "Teeter Dance"
+		},
+		{
+			"id": "Telekinesis",
+			"name": "Telekinesis"
+		},
+		{
+			"id": "Teleport",
+			"name": "Teleport"
+		},
+		{
+			"id": "Thief",
+			"name": "Thief"
+		},
+		{
+			"id": "Thousand Arrows",
+			"name": "Thousand Arrows"
+		},
+		{
+			"id": "Thousand Waves",
+			"name": "Thousand Waves"
+		},
+		{
+			"id": "Thrash",
+			"name": "Thrash"
+		},
+		{
+			"id": "Throat Chop",
+			"name": "Throat Chop"
+		},
+		{
+			"id": "Thunder",
+			"name": "Thunder"
+		},
+		{
+			"id": "Thunder Fang",
+			"name": "Thunder Fang"
+		},
+		{
+			"id": "Thunder Punch",
+			"name": "Thunder Punch"
+		},
+		{
+			"id": "Thunder Shock",
+			"name": "Thunder Shock"
+		},
+		{
+			"id": "Thunder Wave",
+			"name": "Thunder Wave"
+		},
+		{
+			"id": "Thunderbolt",
+			"name": "Thunderbolt"
+		},
+		{
+			"id": "Tickle",
+			"name": "Tickle"
+		},
+		{
+			"id": "Topsy-Turvy",
+			"name": "Topsy-Turvy"
+		},
+		{
+			"id": "Torment",
+			"name": "Torment"
+		},
+		{
+			"id": "Toxic",
+			"name": "Toxic"
+		},
+		{
+			"id": "Toxic Spikes",
+			"name": "Toxic Spikes"
+		},
+		{
+			"id": "Toxic Thread",
+			"name": "Toxic Thread"
+		},
+		{
+			"id": "Transform",
+			"name": "Transform"
+		},
+		{
+			"id": "Tri Attack",
+			"name": "Tri Attack"
+		},
+		{
+			"id": "Trick",
+			"name": "Trick"
+		},
+		{
+			"id": "Trick Room",
+			"name": "Trick Room"
+		},
+		{
+			"id": "Trick-Or-Treat",
+			"name": "Trick-Or-Treat"
+		},
+		{
+			"id": "Triple Kick",
+			"name": "Triple Kick"
+		},
+		{
+			"id": "Trop Kick",
+			"name": "Trop Kick"
+		},
+		{
+			"id": "Trump Card",
+			"name": "Trump Card"
+		},
+		{
+			"id": "Twineedle",
+			"name": "Twineedle"
+		},
+		{
+			"id": "Twister",
+			"name": "Twister"
+		},
+		{
+			"id": "U-Turn",
+			"name": "U-Turn"
+		},
+		{
+			"id": "Uproar",
+			"name": "Uproar"
+		},
+		{
+			"id": "V-Create",
+			"name": "V-Create"
+		},
+		{
+			"id": "Vacuum Wave",
+			"name": "Vacuum Wave"
+		},
+		{
+			"id": "Veevee Volley",
+			"name": "Veevee Volley"
+		},
+		{
+			"id": "Venom Drench",
+			"name": "Venom Drench"
+		},
+		{
+			"id": "Venoshock",
+			"name": "Venoshock"
+		},
+		{
+			"id": "Vice Grip",
+			"name": "Vice Grip"
+		},
+		{
+			"id": "Vine Whip",
+			"name": "Vine Whip"
+		},
+		{
+			"id": "Vital Throw",
+			"name": "Vital Throw"
+		},
+		{
+			"id": "Volt Switch",
+			"name": "Volt Switch"
+		},
+		{
+			"id": "Volt Tackle",
+			"name": "Volt Tackle"
+		},
+		{
+			"id": "Wake-Up Slap",
+			"name": "Wake-Up Slap"
+		},
+		{
+			"id": "Water Gun",
+			"name": "Water Gun"
+		},
+		{
+			"id": "Water Pledge",
+			"name": "Water Pledge"
+		},
+		{
+			"id": "Water Pulse",
+			"name": "Water Pulse"
+		},
+		{
+			"id": "Water Shuriken",
+			"name": "Water Shuriken"
+		},
+		{
+			"id": "Water Sport",
+			"name": "Water Sport"
+		},
+		{
+			"id": "Water Spout",
+			"name": "Water Spout"
+		},
+		{
+			"id": "Waterfall",
+			"name": "Waterfall"
+		},
+		{
+			"id": "Weather Ball",
+			"name": "Weather Ball"
+		},
+		{
+			"id": "Whirlpool",
+			"name": "Whirlpool"
+		},
+		{
+			"id": "Whirlwind",
+			"name": "Whirlwind"
+		},
+		{
+			"id": "Wide Guard",
+			"name": "Wide Guard"
+		},
+		{
+			"id": "Wild Charge",
+			"name": "Wild Charge"
+		},
+		{
+			"id": "Will-O-Wisp",
+			"name": "Will-O-Wisp"
+		},
+		{
+			"id": "Wing Attack",
+			"name": "Wing Attack"
+		},
+		{
+			"id": "Wish",
+			"name": "Wish"
+		},
+		{
+			"id": "Withdraw",
+			"name": "Withdraw"
+		},
+		{
+			"id": "Wonder Room",
+			"name": "Wonder Room"
+		},
+		{
+			"id": "Wood Hammer",
+			"name": "Wood Hammer"
+		},
+		{
+			"id": "Work Up",
+			"name": "Work Up"
+		},
+		{
+			"id": "Worry Seed",
+			"name": "Worry Seed"
+		},
+		{
+			"id": "Wrap",
+			"name": "Wrap"
+		},
+		{
+			"id": "Wring Out",
+			"name": "Wring Out"
+		},
+		{
+			"id": "X-Scissor",
+			"name": "X-Scissor"
+		},
+		{
+			"id": "Yawn",
+			"name": "Yawn"
+		},
+		{
+			"id": "Zap Cannon",
+			"name": "Zap Cannon"
+		},
+		{
+			"id": "Zen Headbutt",
+			"name": "Zen Headbutt"
+		},
+		{
+			"id": "Zing Zap",
+			"name": "Zing Zap"
+		},
+		{
+			"id": "Zippy Zap",
+			"name": "Zippy Zap"
+		}
+	]
+}

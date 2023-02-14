@@ -14,4 +14,4 @@ Zh translation of Pokerole system for Foundry VTT, translated with the help of S
 
 ## Note of thanks
 
-based on Simone's module Babele and pokerole 中文翻譯 by 免費開源TRPG中文化團隊
+based on Simone's module Babele and Pokerole 2.0 中文翻譯 by [https://hazmole.github.io/PokeRole/](免費開源TRPG中文化團隊)

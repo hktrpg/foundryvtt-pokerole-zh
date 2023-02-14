@@ -1972,7 +1972,7 @@
 		},
 		{
 			"name": "魂心",
-			"id": "Soul-Heart",
+			"id": "Soul Heart",
 			"tags": [
 				"target|l|self",
 				"nftext|l|讓敵人陷入瀕死狀態後",
@@ -4504,7 +4504,7 @@
 		},
 		{
 			"name": "魂心 [隱藏特性]",
-			"id": "Soul-Heart [Hidden Ability]",
+			"id": "Soul Heart [Hidden Ability]",
 			"tags": [
 				"target|l|self",
 				"nftext|l|讓敵人陷入瀕死狀態後",

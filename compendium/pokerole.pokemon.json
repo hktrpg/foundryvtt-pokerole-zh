@@ -25752,7 +25752,7 @@
 		},
 		{
 			"name": "蒼響 (劍之王)",
-			"id": "Zacian",
+			"id": "Zacian (Crown Form)",
 			"type": [
 				"Fairy",
 				"Steel"
@@ -26027,7 +26027,7 @@
 		},
 		{
 			"name": "藏瑪然特 (盾之王)",
-			"id": "Zamazenta",
+			"id": "Zamazenta (Crown Form)",
 			"type": [
 				"Fight",
 				"Steel"
@@ -102185,7 +102185,7 @@
 		},
 		{
 			"name": "結草貴婦_草木蓑衣",
-			"id": "Wormadam",
+			"id": "Wormadam (Grass Form)",
 			"type": [
 				"Bug",
 				"Grass"
@@ -102328,7 +102328,7 @@
 		},
 		{
 			"name": "結草貴婦_垃圾蓑衣",
-			"id": "Wormadam-trash",
+			"id": "Wormadam (Steel Form)",
 			"type": [
 				"Bug",
 				"Steel"
@@ -102467,7 +102467,7 @@
 		},
 		{
 			"name": "結草貴婦_砂土蓑衣",
-			"id": "Wormadam-sandy",
+			"id": "Wormadam (Ground Form)",
 			"type": [
 				"Bug",
 				"Ground"

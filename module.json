@@ -2,7 +2,7 @@
   "id": "pokerole-babele-zh",
   "title": "Pokerole Babele zh",
   "description": "This module is the zh translation of the Pokerole system. Further information in the READ.ME. Module Babele is also needed for this module to function.",
-  "version": "1.0",
+  "version": "1.0.0",
   "compatibility": {
       "minimum": "10",
       "verified": "10.285"

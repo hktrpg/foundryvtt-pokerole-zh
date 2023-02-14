@@ -2,6 +2,10 @@
 	"label": "Pokémon (Core 2.0)",
 	"entries": [
 		{
+			"name": "木木梟",
+			"id": "Rowlet"
+		},
+		{
 			"name": "投羽梟",
 			"id": "Dartrix",
 			"type": [
@@ -2465,7 +2469,7 @@
 		},
 		{
 			"name": "花舞鳥 (熱辣熱辣風格)",
-			"id": "Oricorio",
+			"id": "Oricorio (Baile Form)",
 			"type": [
 				"Fire",
 				"Flying"
@@ -16247,7 +16251,7 @@
 		},
 		{
 			"name": "來電汪",
-			"id": "Yamper|ワンパチ",
+			"id": "Yamper",
 			"type": [
 				"Electric"
 			],
@@ -21165,7 +21169,7 @@
 		},
 		{
 			"name": "蔥遊兵",
-			"id": "Sirfetch’d",
+			"id": "Sirfetch'd",
 			"type": [
 				"Fight"
 			],
@@ -23793,7 +23797,7 @@
 		},
 		{
 			"name": "冰砌鵝 (解凍頭型態)",
-			"id": "Eiscue",
+			"id": "Eiscue (No Ice Form)",
 			"type": [
 				"Ice"
 			],
@@ -24455,7 +24459,7 @@
 		},
 		{
 			"name": "雷鳥龍",
-			"id": "",
+			"id": "Dracozolt",
 			"type": [
 				"Dragon",
 				"Electric"
@@ -64667,7 +64671,7 @@
 		},
 		{
 			"name": "甲賀忍蛙 (牽絆變身)",
-			"id": "Greninja",
+			"id": "Greninja (BBF Form)",
 			"type": [
 				"Water",
 				"Dark"
@@ -73221,7 +73225,7 @@
 		},
 		{
 			"name": "基格爾德 (10%)",
-			"id": "Zygarde 10",
+			"id": "Zygarde 10%",
 			"type": [
 				"Dragon",
 				"Ground"
@@ -73370,7 +73374,7 @@
 		},
 		{
 			"name": "基格爾德 (50%)",
-			"id": "Zygarde",
+			"id": "Zygarde 50%",
 			"type": [
 				"Dragon",
 				"Ground"
@@ -88297,7 +88301,7 @@
 		},
 		{
 			"name": "大蔥鴨",
-			"id": "Farfetchd",
+			"id": "Farfetch'd",
 			"type": [
 				"Normal",
 				"Flying"
@@ -91740,7 +91744,7 @@
 		},
 		{
 			"name": "椰蛋樹 (阿羅拉型態)",
-			"id": "Exeggutor (Alolan Form) (Alolan Form)",
+			"id": "Exeggutor (Alolan Form)",
 			"type": [
 				"Grass",
 				"Dragon"
@@ -107655,7 +107659,7 @@
 		},
 		{
 			"name": "河馬獸",
-			"id": "Hippopotas",
+			"id": "Hippowdon",
 			"type": [
 				"Ground"
 			],
@@ -129008,7 +129012,7 @@
 		},
 		{
 			"name": "胖嘟嘟",
-			"id": "Frillish",
+			"id": "Jellicent",
 			"type": [
 				"Water",
 				"Ghost"

@@ -6586,8 +6586,8 @@
 			"effect": "使敵人陷入「麻痺」狀態。\n寶可夢使用牠那威嚇性的目光使敵人因為深陷純粹的恐懼而動彈不得。"
 		},
 		{
-			"name": "叫聲(可愛)",
-			"id": "Growl (強壯)",
+			"name": "叫聲(強壯)",
+			"id": "Growl (Tough)",
 			"power": "-",
 			"category": "support",
 			"type": "Normal",

@@ -2,6 +2,57 @@
 	"label": "Pokémon (Core 2.0)",
 	"entries": [
 		{
+			"name": "風速狗 (洗翠型態)",
+			"id": "Arcanine (Hisuian Form)"
+		},{
+			"name": "風速狗 (伽勒爾型態)",
+			"id": "Articuno (Galarian Form)"
+		},{
+			"name": "超級差不多娃娃",
+			"id": "Audino (Mega Form)"
+		},{
+			"name": "大蔥鴨 (伽勒爾型態)",
+			"id": "Farfetch'd (Galarian Form)"
+		},{
+			"name": "卡蒂狗 (洗翠型態)",
+			"id": "Growlithe (Hisuian Form)"
+		},{
+			"name": "鬃岩狼人 (黑夜)",
+			"id": "Lycanroc (Midnight Form)"
+		},{
+			"name": "美錄梅塔",
+			"id": "Melmetal"
+		},{
+			"name": "美錄坦",
+			"id": "Meltan"
+		},{
+			"name": "MEGA超夢X",
+			"id": "Mewtwo (Mega X Form)"
+		},{
+			"name": "MEGA超夢Y",
+			"id": "Mewtwo (Mega Y Form)"
+		},{
+			"name": "火焰鳥 (伽勒爾型態)",
+			"id": "Moltres (Galarian Form)"
+		},{
+			"name": "呆殼獸 (伽勒爾型態)",
+			"id": "Slowbro (Galarian Form)"
+		},{
+			"name": "呆呆王 (伽勒爾型態)",
+			"id": "Slowking (Galarian Form)"
+		},{
+			"name": "呆呆獸 (伽勒爾型態)",
+			"id": "Slowpoke (Galarian Form)"
+		},{
+			"name": "顫弦蠑螈 (Amped型態)",
+			"id": "Toxtricity (Amped Form)"
+		},{
+			"name": "顫弦蠑螈 (Low Key型態)",
+			"id": "Toxtricity (Low Key Form)"
+		},{
+			"name": "閃電鳥 (伽勒爾型態)",
+			"id": "Zapdos (Galarian Form)"
+		},{
 			"name": "木木梟",
 			"id": "Rowlet"
 		},
@@ -3723,7 +3774,7 @@
 			]
 		},
 		{
-			"name": "鬃岩狼人 (黑夜)",
+			"name": "鬃岩狼人 (白晝)",
 			"id": "Lycanroc (Midday Form)",
 			"type": [
 				"Rock"

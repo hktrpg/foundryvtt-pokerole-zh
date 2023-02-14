@@ -2607,7 +2607,7 @@
 		},
 		{
 			"name": "花舞鳥 (啪滋啪滋風格)",
-			"id": "Oricorio-pom-pom",
+			"id": "Oricorio (Pom-pom Form)",
 			"type": [
 				"Electric",
 				"Flying"
@@ -2749,7 +2749,7 @@
 		},
 		{
 			"name": "花舞鳥 (呼啦呼啦風格)",
-			"id": "Oricorio-pau",
+			"id": "Oricorio (Pa'u Form)",
 			"type": [
 				"Psychic",
 				"Flying"
@@ -2891,7 +2891,7 @@
 		},
 		{
 			"name": "花舞鳥 (輕盈輕盈風格)",
-			"id": "Oricorio-sensu",
+			"id": "Oricorio (Sensu Form)",
 			"type": [
 				"Ghost",
 				"Flying"
@@ -3568,7 +3568,7 @@
 		},
 		{
 			"name": "鬃岩狼人 (黃昏)",
-			"id": "Lycanroc-dusk",
+			"id": "Lycanroc (Dusk Form)",
 			"type": [
 				"Rock"
 			],
@@ -3720,7 +3720,7 @@
 		},
 		{
 			"name": "鬃岩狼人 (黑夜)",
-			"id": "Lycanroc-midnight",
+			"id": "Lycanroc (Midday Form)",
 			"type": [
 				"Rock"
 			],
@@ -4009,7 +4009,7 @@
 		},
 		{
 			"name": "弱丁魚 (魚群)",
-			"id": "Wishiwashi-school",
+			"id": "Wishiwashi (Swarm Form)",
 			"type": [
 				"Water"
 			],
@@ -7445,7 +7445,7 @@
 		},
 		{
 			"name": "屬性:空",
-			"id": "Type-null",
+			"id": "Type Null",
 			"type": [
 				"Normal"
 			],
@@ -7895,7 +7895,7 @@
 		},
 		{
 			"name": "小隕星 (核心)",
-			"id": "Minior-core",
+			"id": "Minior Core",
 			"type": [
 				"Rock",
 				"Flying"
@@ -9419,7 +9419,7 @@
 		},
 		{
 			"name": "卡璞·鳴鳴",
-			"id": "Tapu-koko",
+			"id": "Tapu Koko",
 			"type": [
 				"Electric",
 				"Fairy"
@@ -9577,7 +9577,7 @@
 		},
 		{
 			"name": "卡璞·蝶蝶",
-			"id": "Tapu-lele",
+			"id": "Tapu Lele",
 			"type": [
 				"Psychic",
 				"Fairy"
@@ -9730,7 +9730,7 @@
 		},
 		{
 			"name": "卡璞·哞哞",
-			"id": "Tapu-bulu",
+			"id": "Tapu Bulu",
 			"type": [
 				"Grass",
 				"Fairy"
@@ -9888,7 +9888,7 @@
 		},
 		{
 			"name": "卡璞·鰭鰭",
-			"id": "Tapu-fini",
+			"id": "Tapu Fini",
 			"type": [
 				"Water",
 				"Fairy"
@@ -11745,7 +11745,7 @@
 		},
 		{
 			"name": "奈克洛茲瑪 (黃昏之鬃)",
-			"id": "Necrozma-dusk",
+			"id": "Necrozma (Dusk Mane Form)",
 			"type": [
 				"Psychic",
 				"Steel"
@@ -11908,7 +11908,7 @@
 		},
 		{
 			"name": "奈克洛茲瑪 (拂曉之翼)",
-			"id": "Necrozma-dawn",
+			"id": "Necrozma (Dawn Wings Form)",
 			"type": [
 				"Psychic",
 				"Ghost"
@@ -12071,7 +12071,7 @@
 		},
 		{
 			"name": "究極奈克洛茲瑪",
-			"id": "Necrozma-ultra",
+			"id": "Necrozma (Ultra Burst Form)",
 			"type": [
 				"Psychic",
 				"Dragon"
@@ -22098,144 +22098,6 @@
 					"rank": 4,
 					"type": "Ice",
 					"name": "冷凍乾燥"
-				}
-			]
-		},
-		{
-			"name": "達摩狒狒 (達摩模式)",
-			"id": "Darmanitan (Zen Form)",
-			"type": [
-				"Ice",
-				"Fire"
-			],
-			"system": {
-				"image": "images/pokedex/555-Zen-G.png",
-				"height": "1.7",
-				"weight": "120",
-				"pokedexCategory": "不倒翁寶可夢",
-				"pokedexDescription": "當達摩狒狒憤怒時，原本退化的火囊將重新點燃。這隻寶可夢將胡亂噴火並在所到之處大鬧一番。牠們的怒火必須被平息，否則牠們的高溫甚至會融化自己的身體。"
-			},
-			"evolution": {
-				"stage": "final"
-			},
-			"baseHP": 4,
-			"rank": 2,
-			"attr": {
-				"str": {
-					"value": 3,
-					"max": 7
-				},
-				"dex": {
-					"value": 3,
-					"max": 6
-				},
-				"vit": {
-					"value": 2,
-					"max": 4
-				},
-				"spe": {
-					"value": 1,
-					"max": 3
-				},
-				"ins": {
-					"value": 2,
-					"max": 4
-				}
-			},
-			"ability": [
-				"一猩一意",
-				"達摩模式"
-			],
-			"moves": [
-				{
-					"rank": 0,
-					"type": "Normal",
-					"name": "撞擊"
-				},
-				{
-					"rank": 0,
-					"type": "Dark",
-					"name": "挑釁"
-				},
-				{
-					"rank": 1,
-					"type": "Dark",
-					"name": "咬住"
-				},
-				{
-					"rank": 1,
-					"type": "Ice",
-					"name": "細雪"
-				},
-				{
-					"rank": 2,
-					"type": "Ice",
-					"name": "雪崩"
-				},
-				{
-					"rank": 2,
-					"type": "Normal",
-					"name": "自我激勵"
-				},
-				{
-					"rank": 2,
-					"type": "Ice",
-					"name": "冰凍牙"
-				},
-				{
-					"rank": 2,
-					"type": "Normal",
-					"name": "頭鎚"
-				},
-				{
-					"rank": 2,
-					"type": "Ice",
-					"name": "冰凍拳"
-				},
-				{
-					"rank": 2,
-					"type": "Normal",
-					"name": "吵鬧"
-				},
-				{
-					"rank": 3,
-					"type": "Normal",
-					"name": "腹鼓"
-				},
-				{
-					"rank": 3,
-					"type": "Ice",
-					"name": "暴風雪"
-				},
-				{
-					"rank": 3,
-					"type": "Normal",
-					"name": "大鬧一番"
-				},
-				{
-					"rank": 3,
-					"type": "Fight",
-					"name": "蠻力"
-				},
-				{
-					"rank": 3,
-					"type": "Ice",
-					"name": "冰柱墜擊"
-				},
-				{
-					"rank": 4,
-					"type": "Fire",
-					"name": "大晴天"
-				},
-				{
-					"rank": 4,
-					"type": "Fire",
-					"name": "閃焰衝鋒"
-				},
-				{
-					"rank": 4,
-					"type": "Fire",
-					"name": "火焰牙"
 				}
 			]
 		},
@@ -47020,7 +46882,7 @@
 		},
 		{
 			"name": "原始蓋歐卡",
-			"id": "Kyogre-primal",
+			"id": "Kyogre (Primal Form)",
 			"type": [
 				"Water"
 			],
@@ -47364,7 +47226,7 @@
 		},
 		{
 			"name": "原始固拉多",
-			"id": "Groudon-primal",
+			"id": "Groudon (Primal Form)",
 			"type": [
 				"Ground"
 			],
@@ -48166,8 +48028,8 @@
 			"isLegend": true
 		},
 		{
-			"name": "代歐奇希斯_攻擊型態",
-			"id": "Deoxys-attack",
+			"name": "代歐奇希斯 攻擊型態",
+			"id": "Deoxys (Attack Form)",
 			"type": [
 				"Psychic"
 			],
@@ -48303,8 +48165,8 @@
 			"isLegend": true
 		},
 		{
-			"name": "代歐奇希斯_防禦型態",
-			"id": "Deoxys-defense",
+			"name": "代歐奇希斯 防禦型態",
+			"id": "Deoxys (Defense Form)",
 			"type": [
 				"Psychic"
 			],
@@ -48440,8 +48302,8 @@
 			"isLegend": true
 		},
 		{
-			"name": "代歐奇希斯_速度型態",
-			"id": "Deoxys-speed",
+			"name": "代歐奇希斯 速度型態",
+			"id": "Deoxys (Speed Form)",
 			"type": [
 				"Psychic"
 			],
@@ -68039,7 +67901,7 @@
 		},
 		{
 			"name": "堅盾劍怪 (刀劍形態)",
-			"id": "Aegislash-blade",
+			"id": "Aegislash (Blade Form)",
 			"type": [
 				"Steel",
 				"Ghost"
@@ -73306,7 +73168,7 @@
 		},
 		{
 			"name": "基格爾德 (細胞)",
-			"id": "Zygarde-cell",
+			"id": "Zygarde Cell",
 			"type": [
 				"Dragon",
 				"Ground"
@@ -73359,7 +73221,7 @@
 		},
 		{
 			"name": "基格爾德 (10%)",
-			"id": "Zygarde-10",
+			"id": "Zygarde 10",
 			"type": [
 				"Dragon",
 				"Ground"
@@ -73667,7 +73529,7 @@
 		},
 		{
 			"name": "基格爾德 (100%)",
-			"id": "Zygarde-complete",
+			"id": "Zygarde 100%",
 			"type": [
 				"Dragon",
 				"Ground"
@@ -73988,7 +73850,7 @@
 		},
 		{
 			"name": "超級蒂安希",
-			"id": "Diancie",
+			"id": "Diancie (Mega Form)",
 			"type": [
 				"Rock",
 				"Fairy"
@@ -74299,7 +74161,7 @@
 		},
 		{
 			"name": "解放胡帕",
-			"id": "Hoopa-unbound",
+			"id": "Hoopa (Unbound Form)",
 			"type": [
 				"Psychic",
 				"Dark"
@@ -75009,7 +74871,7 @@
 		},
 		{
 			"name": "超級妙蛙花",
-			"id": "Mega-Venusaur",
+			"id": "Venusaur (Mega Form)",
 			"type": [
 				"Grass",
 				"Poison"
@@ -76253,7 +76115,7 @@
 		},
 		{
 			"name": "超級水箭龜",
-			"id": "Mega-Blastoise",
+			"id": "Blastoise (Mega Form)",
 			"type": [
 				"Water"
 			],
@@ -76922,7 +76784,7 @@
 		},
 		{
 			"name": "超級大針蜂",
-			"id": "Beedrill",
+			"id": "Beedrill (Mega Form)",
 			"type": [
 				"Bug",
 				"Poison"
@@ -77446,7 +77308,7 @@
 		},
 		{
 			"name": "超級大比鳥",
-			"id": "Pidgeot",
+			"id": "Pidgeot (Mega Form)",
 			"type": [
 				"Normal",
 				"Flying"
@@ -79556,7 +79418,7 @@
 		},
 		{
 			"name": "尼多蘭",
-			"id": "Nidoran-f",
+			"id": "Nidoran F",
 			"type": [
 				"Poison"
 			],
@@ -79921,7 +79783,7 @@
 		},
 		{
 			"name": "尼多朗",
-			"id": "Nidoran-m",
+			"id": "Nidoran M",
 			"type": [
 				"Poison"
 			],
@@ -85249,7 +85111,7 @@
 		},
 		{
 			"name": "超級胡地",
-			"id": "Alakazam",
+			"id": "Alakazam (Mega Form)",
 			"type": [
 				"Psychic"
 			],
@@ -87969,7 +87831,7 @@
 		},
 		{
 			"name": "超級呆殼獸",
-			"id": "Slowbro",
+			"id": "Slowbro (Mega Form)",
 			"type": [
 				"Water",
 				"Psychic"
@@ -94668,7 +94530,7 @@
 		},
 		{
 			"name": "魔牆人偶",
-			"id": "Mr-mime",
+			"id": "Mr. Mime",
 			"type": [
 				"Psychic",
 				"Fairy"
@@ -106083,7 +105945,7 @@
 		},
 		{
 			"name": "魔尼尼",
-			"id": "Mime-jr",
+			"id": "Mime Jr",
 			"type": [
 				"Psychic",
 				"Fairy"
@@ -111310,7 +111172,7 @@
 		},
 		{
 			"name": "多邊獸Ｚ",
-			"id": "Porygon-z",
+			"id": "Porygon-Z",
 			"type": [
 				"Normal"
 			],
@@ -112362,7 +112224,7 @@
 		},
 		{
 			"name": "加熱洛托姆",
-			"id": "Rotom-heat",
+			"id": "Rotom (Heat Form)",
 			"type": [
 				"Electric",
 				"Fire"
@@ -112484,7 +112346,7 @@
 		},
 		{
 			"name": "旋轉洛托姆",
-			"id": "Rotom-fan",
+			"id": "Rotom (Fan Form)",
 			"type": [
 				"Electric",
 				"Flying"
@@ -112606,7 +112468,7 @@
 		},
 		{
 			"name": "切割洛托姆",
-			"id": "Rotom-mow",
+			"id": "Rotom (Mow Form)",
 			"type": [
 				"Electric",
 				"Grass"
@@ -112728,7 +112590,7 @@
 		},
 		{
 			"name": "結冰洛托姆",
-			"id": "Rotom-frost",
+			"id": "Rotom (Frost Form)",
 			"type": [
 				"Electric",
 				"Ice"
@@ -112850,7 +112712,7 @@
 		},
 		{
 			"name": "清洗洛托姆",
-			"id": "Rotom-wash",
+			"id": "Rotom (Wash Form)",
 			"type": [
 				"Electric",
 				"Water"
@@ -112972,7 +112834,7 @@
 		},
 		{
 			"name": "洛托姆圖鑑",
-			"id": "Rotom-dex",
+			"id": "Rotom (Dex Form)",
 			"type": [
 				"Electric"
 			],
@@ -114217,7 +114079,7 @@
 		},
 		{
 			"name": "起源騎拉帝納",
-			"id": "Giratina-origin",
+			"id": "Giratina (Origin Form)",
 			"type": [
 				"Ghost",
 				"Dragon"
@@ -115020,7 +114882,7 @@
 		},
 		{
 			"name": "謝米_天空模式",
-			"id": "Shaymin-sky",
+			"id": "Shaymin (Sky Form)",
 			"type": [
 				"Grass"
 			],
@@ -123799,8 +123661,8 @@
 			]
 		},
 		{
-			"name": "達摩狒狒_達摩狀態",
-			"id": "Darmanitan-zen",
+			"name": "達摩狒狒 (達摩型態)",
+			"id": "Darmanitan (Zen Form)",
 			"type": [
 				"Fire"
 			],
@@ -136039,7 +135901,7 @@
 		},
 		{
 			"name": "龍捲雲_靈獸狀態",
-			"id": "Tornadus-therian",
+			"id": "Tornadus (Therian Form)",
 			"type": [
 				"Flying"
 			],
@@ -136325,7 +136187,7 @@
 		},
 		{
 			"name": "雷電雲_靈獸狀態",
-			"id": "Thundurus-therian",
+			"id": "Thundurus (Therian Form)",
 			"type": [
 				"Electric",
 				"Flying"
@@ -136909,7 +136771,7 @@
 		},
 		{
 			"name": "土地雲_靈獸狀態",
-			"id": "Landorus-therian",
+			"id": "Landorus (Therian Form)",
 			"type": [
 				"Ground",
 				"Flying"
@@ -137211,7 +137073,7 @@
 		},
 		{
 			"name": "闇黑酋雷姆",
-			"id": "Kyurem-black",
+			"id": "Kyurem (Black Form)",
 			"type": [
 				"Dragon",
 				"Ice"
@@ -137369,7 +137231,7 @@
 		},
 		{
 			"name": "焰白酋雷姆",
-			"id": "Kyurem-white",
+			"id": "Kyurem (White Form)",
 			"type": [
 				"Dragon",
 				"Ice"
@@ -137951,7 +137813,7 @@
 		},
 		{
 			"name": "美洛耶塔_舞步型態",
-			"id": "Meloetta-pirouette",
+			"id": "Meloetta (Pirouette Form)",
 			"type": [
 				"Normal",
 				"Fight"

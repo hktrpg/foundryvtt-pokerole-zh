@@ -37,7 +37,7 @@
 		},
 		{
 			"name": "穩定同伴的傷勢",
-			"id": "Stabilize an Ally",
+			"id": "Stabilize An Ally",
 			"effect": "使用者對一名失去意識的隊友進行心肺復甦術和/或急救。\n目標不會再受到每小時的致命傷害。每一點該隊友承受的致命傷害都將從這個戰技的命中判定中扣除一顆成功骰。"
 		},
 		{
@@ -71,7 +71,7 @@
 		},
 		{
 			"name": "蟲咬",
-			"id": "むしくい",
+			"id": "Bug Bite",
 			"power": "2",
 			"category": "physical",
 			"type": "Bug",
@@ -1273,7 +1273,7 @@
 		},
 		{
 			"name": "時光咆哮",
-			"id": "Roar of Time",
+			"id": "Roar Of Time",
 			"power": "6",
 			"category": "special",
 			"type": "Dragon",
@@ -2012,7 +2012,7 @@
 		},
 		{
 			"name": "破滅之光",
-			"id": "Light of Ruin",
+			"id": "Light Of Ruin",
 			"power": "6",
 			"category": "special",
 			"type": "Fairy",
@@ -6586,8 +6586,23 @@
 			"effect": "使敵人陷入「麻痺」狀態。\n寶可夢使用牠那威嚇性的目光使敵人因為深陷純粹的恐懼而動彈不得。"
 		},
 		{
-			"name": "叫聲",
-			"id": "Growl",
+			"name": "叫聲(可愛)",
+			"id": "Growl (強壯)",
+			"power": "-",
+			"category": "support",
+			"type": "Normal",
+			"tags": [
+				"target|l|allfoe",
+				"effect|l|sound",
+				"frame|target|力量|down|1"
+			],
+			"accuracy": "強壯/可愛 + 表演",
+			"damage": "-",
+			"effect": "降低敵人的力量。聲音類招式。\n無論是透過凶狠的態度或可愛的舉止，敵人都會遲疑著是否該用全力攻擊使用者。"
+		},
+		{
+			"name": "叫聲(可愛)",
+			"id": "Growl (Cute)",
 			"power": "-",
 			"category": "support",
 			"type": "Normal",
@@ -7476,7 +7491,7 @@
 		},
 		{
 			"name": "自爆",
-			"id": "Self-Destruct",
+			"id": "Self Destruct",
 			"power": "8",
 			"category": "physical",
 			"type": "Normal",

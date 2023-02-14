@@ -19452,8 +19452,8 @@
 			]
 		},
 		{
-			"name": "雙彈瓦斯 (伽勒爾的樣子)",
-			"id": "Weezing",
+			"name": "雙彈瓦斯 (伽勒爾型態)",
+			"id": "Weezing (Galarian Form)",
 			"type": [
 				"Poison",
 				"Fairy"
@@ -20042,8 +20042,8 @@
 			]
 		},
 		{
-			"name": "蛇紋熊 (伽勒爾的樣子)",
-			"id": "Zigzagoon",
+			"name": "蛇紋熊 (伽勒爾型態)",
+			"id": "Zigzagoon (Galarian Form)",
 			"type": [
 				"Dark",
 				"Normal"
@@ -20172,8 +20172,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "直衝熊 (伽勒爾的樣子)",
-			"id": "Linoone",
+			"name": "直衝熊 (伽勒爾型態)",
+			"id": "Linoone (Galarian Form)",
 			"type": [
 				"Dark",
 				"Normal"
@@ -20494,8 +20494,8 @@
 			]
 		},
 		{
-			"name": "喵喵 (伽勒爾的樣子)",
-			"id": "Meowth",
+			"name": "喵喵 (伽勒爾型態)",
+			"id": "Meowth (Galarian Form)",
 			"type": [
 				"Steel"
 			],
@@ -20765,8 +20765,8 @@
 			]
 		},
 		{
-			"name": "太陽珊瑚 (伽勒爾的樣子)",
-			"id": "Corsola",
+			"name": "太陽珊瑚 (伽勒爾型態)",
+			"id": "Corsola (Galarian Form)",
 			"type": [
 				"Ghost"
 			],
@@ -21025,8 +21025,8 @@
 			]
 		},
 		{
-			"name": "大蔥鴨 (伽勒爾的樣子)",
-			"id": "Farfetch’d",
+			"name": "大蔥鴨 (伽勒爾型態)",
+			"id": "Farfetch’d (Galarian Form)",
 			"type": [
 				"Fight"
 			],
@@ -21317,8 +21317,8 @@
 			]
 		},
 		{
-			"name": "泥巴魚 (伽勒爾的樣子)",
-			"id": "Stunfisk",
+			"name": "泥巴魚 (伽勒爾型態)",
+			"id": "Stunfisk (Galarian Form)",
 			"type": [
 				"Ground",
 				"Steel"
@@ -21454,8 +21454,8 @@
 			]
 		},
 		{
-			"name": "魔牆人偶 (伽勒爾的樣子)",
-			"id": "Mr. Mime",
+			"name": "魔牆人偶 (伽勒爾型態)",
+			"id": "Mr. Mime (Galarian Form)",
 			"type": [
 				"Ice",
 				"Psychic"
@@ -21831,8 +21831,8 @@
 			]
 		},
 		{
-			"name": "火紅不倒翁 (伽勒爾的樣子)",
-			"id": "Darumaka",
+			"name": "火紅不倒翁 (伽勒爾型態)",
+			"id": "Darumaka (Galarian Form)",
 			"type": [
 				"Ice"
 			],
@@ -21965,8 +21965,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "達摩狒狒 (伽勒爾的樣子)",
-			"id": "Darmanitan",
+			"name": "達摩狒狒 (伽勒爾型態)",
+			"id": "Darmanitan (Galarian Form)",
 			"type": [
 				"Ice"
 			],
@@ -21975,7 +21975,7 @@
 				"height": "1.7",
 				"weight": "120",
 				"pokedexCategory": "不倒翁寶可夢",
-				"pokedexDescription": "達摩狒狒在伽勒爾的樣子。牠們會在暴風雪的日子來到人類居住的村落偷走食物。儘管達摩狒狒看起來很兇，但牠們實際上溫和且害羞。"
+				"pokedexDescription": "達摩狒狒在伽勒爾的型態。牠們會在暴風雪的日子來到人類居住的村落偷走食物。儘管達摩狒狒看起來很兇，但牠們實際上溫和且害羞。"
 			},
 			"evolution": {
 				"stage": "final"
@@ -22102,8 +22102,8 @@
 			]
 		},
 		{
-			"name": "達摩狒狒 (伽勒爾的樣子)(達摩模式)",
-			"id": "Darmanitan",
+			"name": "達摩狒狒 (達摩模式)",
+			"id": "Darmanitan (Zen Form)",
 			"type": [
 				"Ice",
 				"Fire"
@@ -22240,8 +22240,146 @@
 			]
 		},
 		{
-			"name": "哭哭面具 (伽勒爾的樣子)",
-			"id": "Yamask",
+			"name": "達摩狒狒 (伽勒爾型態)(達摩模式)",
+			"id": "Darmanitan (Galarian Zen Form)",
+			"type": [
+				"Ice",
+				"Fire"
+			],
+			"system": {
+				"image": "images/pokedex/555-Zen-G.png",
+				"height": "1.7",
+				"weight": "120",
+				"pokedexCategory": "不倒翁寶可夢",
+				"pokedexDescription": "當達摩狒狒憤怒時，原本退化的火囊將重新點燃。這隻寶可夢將胡亂噴火並在所到之處大鬧一番。牠們的怒火必須被平息，否則牠們的高溫甚至會融化自己的身體。"
+			},
+			"evolution": {
+				"stage": "final"
+			},
+			"baseHP": 4,
+			"rank": 2,
+			"attr": {
+				"str": {
+					"value": 3,
+					"max": 7
+				},
+				"dex": {
+					"value": 3,
+					"max": 6
+				},
+				"vit": {
+					"value": 2,
+					"max": 4
+				},
+				"spe": {
+					"value": 1,
+					"max": 3
+				},
+				"ins": {
+					"value": 2,
+					"max": 4
+				}
+			},
+			"ability": [
+				"一猩一意",
+				"達摩模式"
+			],
+			"moves": [
+				{
+					"rank": 0,
+					"type": "Normal",
+					"name": "撞擊"
+				},
+				{
+					"rank": 0,
+					"type": "Dark",
+					"name": "挑釁"
+				},
+				{
+					"rank": 1,
+					"type": "Dark",
+					"name": "咬住"
+				},
+				{
+					"rank": 1,
+					"type": "Ice",
+					"name": "細雪"
+				},
+				{
+					"rank": 2,
+					"type": "Ice",
+					"name": "雪崩"
+				},
+				{
+					"rank": 2,
+					"type": "Normal",
+					"name": "自我激勵"
+				},
+				{
+					"rank": 2,
+					"type": "Ice",
+					"name": "冰凍牙"
+				},
+				{
+					"rank": 2,
+					"type": "Normal",
+					"name": "頭鎚"
+				},
+				{
+					"rank": 2,
+					"type": "Ice",
+					"name": "冰凍拳"
+				},
+				{
+					"rank": 2,
+					"type": "Normal",
+					"name": "吵鬧"
+				},
+				{
+					"rank": 3,
+					"type": "Normal",
+					"name": "腹鼓"
+				},
+				{
+					"rank": 3,
+					"type": "Ice",
+					"name": "暴風雪"
+				},
+				{
+					"rank": 3,
+					"type": "Normal",
+					"name": "大鬧一番"
+				},
+				{
+					"rank": 3,
+					"type": "Fight",
+					"name": "蠻力"
+				},
+				{
+					"rank": 3,
+					"type": "Ice",
+					"name": "冰柱墜擊"
+				},
+				{
+					"rank": 4,
+					"type": "Fire",
+					"name": "大晴天"
+				},
+				{
+					"rank": 4,
+					"type": "Fire",
+					"name": "閃焰衝鋒"
+				},
+				{
+					"rank": 4,
+					"type": "Fire",
+					"name": "火焰牙"
+				}
+			]
+		},
+		{
+			"name": "哭哭面具 (伽勒爾型態)",
+			"id": "Yamask (Galarian Form)",
 			"type": [
 				"Ghost"
 			],
@@ -22787,8 +22925,8 @@
 			]
 		},
 		{
-			"name": "小火馬 (伽勒爾的樣子)",
-			"id": "Ponyta",
+			"name": "小火馬 (伽勒爾型態)",
+			"id": "Ponyta (Galarian Form)",
 			"type": [
 				"Psychic"
 			],
@@ -22915,8 +23053,8 @@
 			]
 		},
 		{
-			"name": "烈焰馬 (伽勒爾的樣子)",
-			"id": "Rapidash",
+			"name": "烈焰馬 (伽勒爾型態)",
+			"id": "Rapidash (Galarian Form)",
 			"type": [
 				"Psychic",
 				"Fairy"
@@ -26591,7 +26729,7 @@
 		},
 		{
 			"name": "蜥蜴王_MEGA",
-			"id": "Sceptile",
+			"id": "Sceptile (Mega Form)",
 			"type": [
 				"Grass"
 			],
@@ -27140,7 +27278,7 @@
 		},
 		{
 			"name": "火焰雞_MEGA",
-			"id": "Blaziken",
+			"id": "Blaziken (Mega Form)",
 			"type": [
 				"Fire",
 				"Fight"
@@ -27685,7 +27823,7 @@
 		},
 		{
 			"name": "巨沼怪_MEGA",
-			"id": "Swampert",
+			"id": "Swampert (Mega Form)",
 			"type": [
 				"Water",
 				"Ground"
@@ -30532,8 +30670,8 @@
 			]
 		},
 		{
-			"name": "沙奈朵_mega",
-			"id": "Gardevoir",
+			"name": "沙奈朵_MEGA",
+			"id": "Gardevoir (Mega Form)",
 			"type": [
 				"Psychic",
 				"Fairy"
@@ -33327,7 +33465,7 @@
 		},
 		{
 			"name": "勾魂眼_MEGA",
-			"id": "Sableye",
+			"id": "Sableye (Mega Form)",
 			"type": [
 				"Dark"
 			],
@@ -33636,7 +33774,7 @@
 		},
 		{
 			"name": "大嘴娃_MEGA",
-			"id": "Mawile",
+			"id": "Mawile (Mega Form)",
 			"type": [
 				"Steel",
 				"Fairy"
@@ -34255,7 +34393,7 @@
 		},
 		{
 			"name": "波士可多拉_MEGA",
-			"id": "Aggron",
+			"id": "Aggron (Mega Form)",
 			"type": [
 				"Steel"
 			],
@@ -34722,7 +34860,7 @@
 		},
 		{
 			"name": "恰雷姆_MEGA",
-			"id": "Medicham",
+			"id": "Medicham (Mega Form)",
 			"type": [
 				"Fight",
 				"Psychic"
@@ -35165,7 +35303,7 @@
 		},
 		{
 			"name": "雷電獸_MEGA",
-			"id": "Manectric",
+			"id": "Manectric (Mega Form)",
 			"type": [
 				"Electric"
 			],
@@ -36633,7 +36771,7 @@
 		},
 		{
 			"name": "巨牙鯊_MEGA",
-			"id": "Sharpedo",
+			"id": "Sharpedo (Mega Form)",
 			"type": [
 				"Water",
 				"Dark"
@@ -37359,7 +37497,7 @@
 		},
 		{
 			"name": "噴火駝_MEGA",
-			"id": "Camerupt",
+			"id": "Camerupt (Mega Form)",
 			"type": [
 				"Fire",
 				"Ground"
@@ -39135,7 +39273,7 @@
 		},
 		{
 			"name": "七夕青鳥_MEGA",
-			"id": "Altaria",
+			"id": "Altaria (Mega Form)",
 			"type": [
 				"Dragon",
 				"Fairy"
@@ -42127,7 +42265,7 @@
 		},
 		{
 			"name": "詛咒娃娃_MEGA",
-			"id": "Banette",
+			"id": "Banette (Mega Form)",
 			"type": [
 				"Ghost"
 			],
@@ -43010,7 +43148,7 @@
 		},
 		{
 			"name": "阿勃梭魯_MEGA",
-			"id": "Absol",
+			"id": "Absol (Mega Form)",
 			"type": [
 				"Dark"
 			],
@@ -43516,7 +43654,7 @@
 		},
 		{
 			"name": "冰鬼護_MEGA",
-			"id": "Glalie",
+			"id": "Glalie (Mega Form)",
 			"type": [
 				"Ice"
 			],
@@ -45031,7 +45169,7 @@
 		},
 		{
 			"name": "暴飛龍_MEGA",
-			"id": "Salamence",
+			"id": "Salamence (Mega Form)",
 			"type": [
 				"Dragon",
 				"Flying"
@@ -45517,7 +45655,7 @@
 		},
 		{
 			"name": "巨金怪_MEGA",
-			"id": "Metagross",
+			"id": "Metagross (Mega Form)",
 			"type": [
 				"Steel",
 				"Psychic"
@@ -46236,7 +46374,7 @@
 		},
 		{
 			"name": "拉帝亞斯_MEGA",
-			"id": "Latias",
+			"id": "Latias (Mega Form)",
 			"type": [
 				"Dragon",
 				"Psychic"
@@ -46552,7 +46690,7 @@
 		},
 		{
 			"name": "拉帝歐斯_MEGA",
-			"id": "Latios",
+			"id": "Latios (Mega Form)",
 			"type": [
 				"Dragon",
 				"Psychic"
@@ -47571,7 +47709,7 @@
 		},
 		{
 			"name": "烈空坐_MEGA",
-			"id": "Rayquaza",
+			"id": "Rayquaza (Mega Form)",
 			"type": [
 				"Dragon",
 				"Flying"
@@ -52662,7 +52800,7 @@
 		},
 		{
 			"name": "電龍_MEGA",
-			"id": "Ampharos",
+			"id": "Ampharos (Mega Form)",
 			"type": [
 				"Electric",
 				"Dragon"
@@ -56514,7 +56652,7 @@
 		},
 		{
 			"name": "大鋼蛇_MEGA",
-			"id": "Steelix",
+			"id": "Steelix (Mega Form)",
 			"type": [
 				"Steel",
 				"Ground"
@@ -57298,7 +57436,7 @@
 		},
 		{
 			"name": "巨鉗螳螂_MEGA",
-			"id": "Scizor",
+			"id": "Scizor (Mega Form)",
 			"type": [
 				"Bug",
 				"Steel"
@@ -57761,7 +57899,7 @@
 		},
 		{
 			"name": "赫拉克羅斯_MEGA",
-			"id": "Heracross",
+			"id": "Heracross (Mega Form)",
 			"type": [
 				"Bug",
 				"Fight"
@@ -60036,7 +60174,7 @@
 		},
 		{
 			"name": "黑魯加_MEGA",
-			"id": "Houndoom",
+			"id": "Houndoom (Mega Form)",
 			"type": [
 				"Dark",
 				"Fire"
@@ -62747,7 +62885,7 @@
 		},
 		{
 			"name": "班基拉斯_MEGA",
-			"id": "Tyranitar",
+			"id": "Tyranitar (Mega Form)",
 			"type": [
 				"Rock",
 				"Dark"
@@ -75410,7 +75548,7 @@
 		},
 		{
 			"name": "超級噴火龍Y",
-			"id": "Mega-Charizard Y",
+			"id": "Charizard (Mega Y Form)",
 			"type": [
 				"Fire",
 				"Flying"
@@ -75562,7 +75700,7 @@
 		},
 		{
 			"name": "超級噴火龍X",
-			"id": "Mega-Charizard X",
+			"id": "Charizard (Mega X Form)",
 			"type": [
 				"Fire",
 				"Dragon"
@@ -77700,8 +77838,8 @@
 			]
 		},
 		{
-			"name": "小拉達 (阿羅拉的樣子)",
-			"id": "Rattata",
+			"name": "小拉達 (阿羅拉型態)",
+			"id": "Rattata (Alolan Form)",
 			"type": [
 				"Dark",
 				"Normal"
@@ -77830,8 +77968,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "拉達 (阿羅拉的樣子)",
-			"id": "Raticate",
+			"name": "拉達 (阿羅拉型態)",
+			"id": "Raticate (Alolan Form)",
 			"type": [
 				"Dark",
 				"Normal"
@@ -78776,8 +78914,8 @@
 			]
 		},
 		{
-			"name": "雷丘 (阿羅拉的樣子)",
-			"id": "Raichu",
+			"name": "雷丘 (阿羅拉型態)",
+			"id": "Raichu (Alolan Form)",
 			"type": [
 				"Electric",
 				"Psychic"
@@ -79169,8 +79307,8 @@
 			]
 		},
 		{
-			"name": "穿山鼠 (阿羅拉的樣子)",
-			"id": "Sandshrew",
+			"name": "穿山鼠 (阿羅拉型態)",
+			"id": "Sandshrew (Alolan Form)",
 			"type": [
 				"Ice",
 				"Steel"
@@ -79319,8 +79457,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "穿山王 (阿羅拉的樣子)",
-			"id": "Sandslash",
+			"name": "穿山王 (阿羅拉型態)",
+			"id": "Sandslash (Alolan Form)",
 			"type": [
 				"Ice",
 				"Steel"
@@ -80669,8 +80807,8 @@
 			]
 		},
 		{
-			"name": "六尾 (阿羅拉的樣子)",
-			"id": "Vulpix",
+			"name": "六尾 (阿羅拉型態)",
+			"id": "Vulpix (Alolan Form)",
 			"type": [
 				"Ice"
 			],
@@ -80833,8 +80971,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "九尾 (阿羅拉的樣子)",
-			"id": "Ninetales",
+			"name": "九尾 (阿羅拉型態)",
+			"id": "Ninetales (Alolan Form)",
 			"type": [
 				"Ice"
 			],
@@ -82667,8 +82805,8 @@
 			]
 		},
 		{
-			"name": "地鼠 (阿羅拉的樣子)",
-			"id": "Diglett",
+			"name": "地鼠 (阿羅拉型態)",
+			"id": "Diglett (Alolan Form)",
 			"type": [
 				"Ground",
 				"Steel"
@@ -82802,8 +82940,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "三地鼠 (阿羅拉的樣子)",
-			"id": "Dugtrio",
+			"name": "三地鼠 (阿羅拉型態)",
+			"id": "Dugtrio (Alolan Form)",
 			"type": [
 				"Ground",
 				"Steel"
@@ -83246,8 +83384,8 @@
 			]
 		},
 		{
-			"name": "喵喵 (阿羅拉的樣子)",
-			"id": "Meowth",
+			"name": "喵喵 (阿羅拉型態)",
+			"id": "Meowth (Alolan Form)",
 			"type": [
 				"Dark"
 			],
@@ -83390,8 +83528,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "貓老大 (阿羅拉的樣子)",
-			"id": "Persian",
+			"name": "貓老大 (阿羅拉型態)",
+			"id": "Persian (Alolan Form)",
 			"type": [
 				"Dark"
 			],
@@ -86819,8 +86957,8 @@
 			]
 		},
 		{
-			"name": "小拳石 (阿羅拉的樣子)",
-			"id": "Geodude",
+			"name": "小拳石 (阿羅拉型態)",
+			"id": "Geodude (Alolan Form)",
 			"type": [
 				"Rock",
 				"Electric"
@@ -86964,8 +87102,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "隆隆石 (阿羅拉的樣子)",
-			"id": "Graveler",
+			"name": "隆隆石 (阿羅拉型態)",
+			"id": "Graveler (Alolan Form)",
 			"type": [
 				"Rock",
 				"Electric"
@@ -87108,8 +87246,8 @@
 			]
 		},
 		{
-			"name": "隆隆岩 (阿羅拉的樣子)",
-			"id": "Golem",
+			"name": "隆隆岩 (阿羅拉型態)",
+			"id": "Golem (Alolan Form)",
 			"type": [
 				"Rock",
 				"Electric"
@@ -89178,8 +89316,8 @@
 			"isNovice": true
 		},
 		{
-			"name": "臭泥 (阿羅拉的樣子)",
-			"id": "Grimer",
+			"name": "臭泥 (阿羅拉型態)",
+			"id": "Grimer (Alolan Form)",
 			"type": [
 				"Poison",
 				"Dark"
@@ -89565,8 +89703,8 @@
 			]
 		},
 		{
-			"name": "臭臭泥 (阿羅拉的樣子)",
-			"id": "Muk",
+			"name": "臭臭泥 (阿羅拉型態)",
+			"id": "Muk (Alolan Form)",
 			"type": [
 				"Poison",
 				"Dark"
@@ -90400,7 +90538,7 @@
 		},
 		{
 			"name": "耿鬼_MEGA",
-			"id": "Gengar",
+			"id": "Gengar (Mega Form)",
 			"type": [
 				"Ghost",
 				"Poison"
@@ -91739,8 +91877,8 @@
 			]
 		},
 		{
-			"name": "椰蛋樹 (阿羅拉的樣子)",
-			"id": "Exeggutor",
+			"name": "椰蛋樹 (阿羅拉型態)",
+			"id": "Exeggutor (Alolan Form) (Alolan Form)",
 			"type": [
 				"Grass",
 				"Dragon"
@@ -92133,8 +92271,8 @@
 			]
 		},
 		{
-			"name": "嘎啦嘎啦 (阿羅拉的樣子)",
-			"id": "Marowak",
+			"name": "嘎啦嘎啦 (阿羅拉型態)",
+			"id": "Marowak (Alolan Form)",
 			"type": [
 				"Fire",
 				"Ghost"
@@ -93715,7 +93853,7 @@
 		},
 		{
 			"name": "袋獸_MEGA",
-			"id": "Kangaskhan",
+			"id": "Kangaskhan (Mega Form)",
 			"type": [
 				"Normal"
 			],
@@ -95417,7 +95555,7 @@
 		},
 		{
 			"name": "凱羅斯_MEGA",
-			"id": "Pinsir",
+			"id": "Pinsir (Mega Form)",
 			"type": [
 				"Bug",
 				"Flying"
@@ -95795,7 +95933,7 @@
 		},
 		{
 			"name": "暴鯉龍_MEGA",
-			"id": "Gyarados",
+			"id": "Gyarados (Mega Form)",
 			"type": [
 				"Water",
 				"Dark"
@@ -97391,7 +97529,7 @@
 		},
 		{
 			"name": "化石翼龍_MEGA",
-			"id": "Aerodactyl",
+			"id": "Aerodactyl (Mega Form)",
 			"type": [
 				"Rock",
 				"Flying"
@@ -104461,7 +104599,7 @@
 		},
 		{
 			"name": "長耳兔_MEGA",
-			"id": "Lopunny",
+			"id": "Lopunny (Mega Form)",
 			"type": [
 				"Normal"
 			],
@@ -106817,7 +106955,7 @@
 		},
 		{
 			"name": "烈咬陸鯊_MEGA",
-			"id": "Garchomp",
+			"id": "Garchomp (Mega Form)",
 			"type": [
 				"Dragon",
 				"Ground"
@@ -107375,7 +107513,7 @@
 		},
 		{
 			"name": "路卡利歐_MEGA",
-			"id": "Lucario",
+			"id": "Lucario (Mega Form)",
 			"type": [
 				"Fight",
 				"Steel"
@@ -109175,7 +109313,7 @@
 		},
 		{
 			"name": "暴雪王_MEGA",
-			"id": "Abomasnow",
+			"id": "Abomasnow (Mega Form)",
 			"type": [
 				"Grass",
 				"Ice"
@@ -111477,7 +111615,7 @@
 		},
 		{
 			"name": "艾路雷朵_MEGA",
-			"id": "Gallade",
+			"id": "Gallade (Mega Form)",
 			"type": [
 				"Psychic",
 				"Fight"
@@ -120231,7 +120369,7 @@
 		},
 		{
 			"name": "差不多娃娃_MEGA",
-			"id": "Timburr",
+			"id": "Timburr (Mega Form)",
 			"type": [
 				"Normal",
 				"Fairy"
@@ -137526,8 +137664,8 @@
 			"isLegend": true
 		},
 		{
-			"name": "凱路迪歐_覺悟的樣子",
-			"id": "Keldeo-resolute",
+			"name": "凱路迪歐 (覺悟型態)",
+			"id": "Keldeo (Resolute Form)",
 			"type": [
 				"Water",
 				"Fight"

@@ -6,11 +6,12 @@ Zh translation of Pokerole system for Foundry VTT, translated with the help of S
 
 ## Installation
 
-## Link 
+## Link
 
-- Repo: https://github.com/
-- Manifest: https://github.com/
-- Download: https://github.com/
+- Repo: <https://github.com/hktrpg/foundryvtt-pokerole-zh>
+- Manifest: <https://raw.githubusercontent.com/hktrpg/foundryvtt-pokerole-zh/main/module.json>
+- Download: <https://github.com/hktrpg/foundryvtt-pokerole-zh/archive/refs/heads/main.zip>
 
-<h3>Note of thanks</h3>
+## Note of thanks
+
 based on Simone's module Babele and pokerole 中文翻譯 by 免費開源TRPG中文化團隊

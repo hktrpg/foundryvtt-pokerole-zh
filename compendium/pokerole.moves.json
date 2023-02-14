@@ -6,6 +6,56 @@
 	},
 	"entries": [
 		{
+			"name": "掙扎(物理)",
+			"id": "Struggle (Physical)",
+			"effect": "最基本的攻擊。 與「掙扎（特殊）」相同的招式，使用者應該使用你所具有最高屬性（力量/特殊）的招式。"
+		},
+		{
+			"name": "掙扎(特殊)",
+			"id": "Struggle (Special)",
+			"effect": "最基本的攻擊。 與「掙扎（物理）」相同的招式，使用者應該使用你所具有最高屬性（力量/特殊）的招式。"
+		},
+		{
+			"name": "擒抱",
+			"id": "Grapple",
+			"effect": "目標被阻擋。\n目標可以透過擲骰判定來抵抗這個戰技：骰他的力量或靈巧判定，獲得數量等同或超過使用者的成功骰數則成功抵抗。"
+		},
+		{
+			"name": "協助同伴",
+			"id": "Help Another",
+			"effect": "使用你進行命中判定的骰池，如同它們是機率骰一樣擲骰。若成功，則隊友的行動的骰池將增加一顆骰子。你可以透過這個方式增加最多 6 顆骰子。"
+		},
+		{
+			"name": "掩護同伴",
+			"id": "Cover An Ally",
+			"effect": "使用者將在遠程攻擊中為目標提供掩護，並且更有可能被近距離攻擊命中。使用者所能提供的掩護程度將取決於他的體型。"
+		},
+		{
+			"name": "逃跑",
+			"id": "Run Away",
+			"effect": "使用者從戰場中逃跑。這個效果將使戰鬥結束。\n敵人可以透過擲骰判定來阻止這個效果：骰他的靈巧 + 運動，並獲得等同或更多的成功骰。若使用者被阻擋，則這個戰技失敗。"
+		},
+		{
+			"name": "穩定同伴的傷勢",
+			"id": "Stabilize an Ally",
+			"effect": "使用者對一名失去意識的隊友進行心肺復甦術和/或急救。\n目標不會再受到每小時的致命傷害。每一點該隊友承受的致命傷害都將從這個戰技的命中判定中扣除一顆成功骰。"
+		},
+		{
+			"name": "",
+			"id": "",
+			"effect": ""
+		},
+		{
+			"name": "",
+			"id": "",
+			"effect": ""
+		},
+		{
+			"name": "",
+			"id": "",
+			"effect": ""
+		},
+		{
 			"name": "攻擊指令",
 			"id": "Attack Order",
 			"power": "3",
@@ -380,7 +430,7 @@
 		},
 		{
 			"name": "急速折返",
-			"id": "U-turn",
+			"id": "U-Turn",
 			"power": "3",
 			"category": "physical",
 			"type": "Bug",
@@ -1916,7 +1966,7 @@
 		},
 		{
 			"name": "花療",
-			"alias": "ラワーヒール Floral Healing",
+			"id": "Floral Healing",
 			"power": "-",
 			"category": "support",
 			"type": "Fairy",
@@ -3263,7 +3313,7 @@
 		},
 		{
 			"name": "Ｖ熱焰",
-			"id": "V-create",
+			"id": "V-Create",
 			"power": "7",
 			"category": "physical",
 			"type": "Fire",
@@ -3702,7 +3752,7 @@
 		},
 		{
 			"name": "詛咒（非幽靈系的使用者）",
-			"id": "Curse",
+			"id": "Curse (Non-Ghost User)",
 			"power": "-",
 			"category": "support",
 			"type": "Ghost",
@@ -3972,7 +4022,7 @@
 		},
 		{
 			"name": "萬聖夜",
-			"id": "Trick-or-Treat",
+			"id": "Trick-Or-Treat",
 			"power": "-",
 			"category": "support",
 			"type": "Ghost",
@@ -4856,7 +4906,7 @@
 		},
 		{
 			"name": "擲泥",
-			"id": "Mud-Slap",
+			"id": "Mud Slap",
 			"power": "1",
 			"category": "special",
 			"type": "Ground",
@@ -5070,7 +5120,7 @@
 		},
 		{
 			"name": "冷凍乾燥",
-			"id": "Freeze-Dry",
+			"id": "Freeze Dry",
 			"power": "3",
 			"category": "special",
 			"type": "Ice",
@@ -8084,7 +8134,7 @@
 		},
 		{
 			"name": "夾住",
-			"id": "Vise Grip",
+			"id": "Vice Grip",
 			"power": "2",
 			"category": "physical",
 			"type": "Normal",
@@ -8833,7 +8883,7 @@
 		},
 		{
 			"name": "異次元洞",
-			"id": "",
+			"id": "Hyperspace Hole",
 			"power": "3",
 			"category": "special",
 			"type": "Psychic",
@@ -9038,8 +9088,21 @@
 			"effect": "骰 5 顆機率骰以降低敵人的特殊。這個效果可以在每個目標身上疊加最多三次。\n使用者用厚重的濃霧淹沒敵人，這股柔順的迷霧將阻止邪念從敵人的心底浮現。"
 		},
 		{
-			"name": "光子噴涌",
-			"id": "Photon Geyser",
+			"name": "光子噴涌 (特殊)",
+			"id": "Photon Geyser (Special)",
+			"power": "4",
+			"category": "hybrid",
+			"type": "Psychic",
+			"tags": [
+				"target|l|foe"
+			],
+			"accuracy": "靈巧 + 導引",
+			"damage": "力量/特殊 + 4",
+			"effect": "這個招式的傷害骰池可以使用力量或特殊特質，並分別造成物理或特殊傷害。由使用者選擇。\n寶可夢透過出現在敵人位置的巨大光柱進行攻擊，無論是它熾烈的能量或強勁的衝擊都足以擊倒任何人。"
+		},
+		{
+			"name": "光子噴涌(物理)",
+			"id": "Photon Geyser (Physical)",
 			"power": "4",
 			"category": "hybrid",
 			"type": "Psychic",
